@@ -308,8 +308,9 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/231
 #EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png", BBB 24 Canal 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/260488
 
-#EXTINF;-1 tvg-logo="https://imgur.com/p65dwlm.png", BBB Canal 2
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png", BBB Canal 2
 http://xciptv.aplicativos.top/live/884202033/r537B8146t/298259.ts
 
-#EXTINF;-1 tvg-logo="https://imgur.com/p65dwlm.png", BBB Canal 3
+#EXTIN
+:-1 tvg-logo="https://imgur.com/p65dwlm.png", BBB Canal 3
 http://khtro2.com/live/69754975141604/526502448518/493844.ts
