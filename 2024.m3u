@@ -382,5 +382,12 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/656
 #EXTINF:-1,ZOOMO FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/659
 
+########################################BBB24
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 1 HD 
+ https://cr7v.short.gy/live/BBB1/Index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 2 HD
+https://cr7v.short.gy/live/BBB2/Index.m3u8
+
 #EXTINF:-1,BBB 24  - Aquecimento 
 http://voz.one:80/alexfnt/vTFBGKdUYq/260488
