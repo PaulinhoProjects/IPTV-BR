@@ -302,26 +302,9 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/231
 
 ########################################BBB24
 
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB 24 Principal
- https://cr7v.short.gy/live/BBB1/Index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png", BBB 24 Canal 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/260488
-
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png", BBB Canal 2
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png", BBB24
 http://xciptv.aplicativos.top/live/884202033/r537B8146t/298259.ts
 
-#EXTIN:-1 tvg-logo="https://imgur.com/p65dwlm.png", BBB Canal 3
-http://khtro2.com/live/69754975141604/526502448518/493844.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CgzyFw5.png" group-title="Canais | BBB 2024",Camera 1
-https://s.m3u9.top/a2/hls1/bbb24s01/__index.m3u8?mu3zAQc9HC3GbwJq=MDV_wylno89iQK85Zni3IQ&3U1G7qaTxrPbalZnEx=1705395020
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CgzyFw5.png" group-title="Canais | BBB 2024",Camera 2
-https://s.m3u9.top/a2/hls1/bbb24s02/__index.m3u8?mu3zAQc9HC3GbwJq=RBj9ogGZ--hDzl9vLjwmyg&3U1G7qaTxrPbalZnEx=1705395182
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CgzyFw5.png" group-title="Canais | BBB 2024",Camera 3
-https://ogcdn-live.video.globo.com/nu/f(bMax=3300000,bMin=2000)/bbb01/edge-cache-token=Expires=1705453068&KeyName=media-cdn-keyset-prod&IPRanges=MTY3LjI1MC4xOC4xMjkvMzI=&Signature=OqHL5ta0SqFkQwbIn0YMC_zr6n69R_OYqQI7-1NOY8eTXK5nZ29qOsHhqvZUmmrULSf5qTl0MM_dokdgpWPaCg==/bbb01-audio_1=96000-video=2262976.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CgzyFw5.png" group-title="Canais | BBB 2024",Camera 4
-https://ogcdn-live.video.globo.com/nu/f(bMax=3300000,bMin=2000)/bbb11/edge-cache-token=Expires=1705453277&KeyName=media-cdn-keyset-prod&IPRanges=MTY3LjI1MC4xOC4xMjkvMzI=&Signature=TbqV8gkf_oxM4Pf4eY9fFC3iM1cHwnDHzHAiNwUUVyag8DHrvflGvVm7SMqp-K5556QlD-i0_MMbLRpAFHhXCQ==/bbb11-audio_1=96000-video=2262976.m3u8?WithCaption
