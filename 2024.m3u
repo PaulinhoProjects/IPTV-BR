@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1,BBB 24 - 01
+#EXTINF:-1,tvg-logo="https://imgur.com/p65dwlm.png" BBB 24 - 01
 http://voz.one:80/alexfnt/vTFBGKdUYq/254730
-#EXTINF:-1,BBB 24 - 02
+#EXTINF:-1,tvg-logo="https://imgur.com/p65dwlm.png" BBB 24 - 02
 http://voz.one:80/alexfnt/vTFBGKdUYq/254731
-#EXTINF:-1,BBB 24 - 03
+#EXTINF:-1,tvg-logo="https://imgur.com/p65dwlm.png" BBB 24 - 03
 http://voz.one:80/alexfnt/vTFBGKdUYq/254732
-#EXTINF:-1,BBB 24 - 04
+#EXTINF:-1,tvg-logo="https://imgur.com/p65dwlm.png" BBB 24 - 04
 http://voz.one:80/alexfnt/vTFBGKdUYq/258180
-#EXTINF:-1,BBB 24 - 05
+#EXTINF:-1,tvg-logo="https://imgur.com/p65dwlm.png" BBB 24 - 05
 http://voz.one:80/alexfnt/vTFBGKdUYq/258181
-#EXTINF:-1,BBB 24 - 06
+#EXTINF:-1,tvg-logo="https://imgur.com/p65dwlm.png" BBB 24 - 06
 http://voz.one:80/alexfnt/vTFBGKdUYq/258182
 #EXTINF:-1,A&E FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/418
@@ -295,21 +295,21 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/740
 http://voz.one:80/alexfnt/vTFBGKdUYq/56036
 #EXTINF:-1,SPORTV FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/743
-#EXTINF:-1,STAR CHANNEL FHD
+#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" STAR CHANNEL FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/430
-#EXTINF:-1,STAR+ 1
+#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" STAR+ 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/57676
-#EXTINF:-1,STAR+ 2
+#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" STAR+ 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/57706
-#EXTINF:-1,STAR+ 3
+#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" STAR+ 3
 http://voz.one:80/alexfnt/vTFBGKdUYq/57707
-#EXTINF:-1,STAR+ 4
+#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" STAR+ 4
 http://voz.one:80/alexfnt/vTFBGKdUYq/65302
-#EXTINF:-1,STAR+ 5
+#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" STAR+ 5
 http://voz.one:80/alexfnt/vTFBGKdUYq/65303
-#EXTINF:-1,STAR+ 6
+#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" STAR+ 6
 http://voz.one:80/alexfnt/vTFBGKdUYq/65304
-#EXTINF:-1,STAR+ 7
+#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" STAR+ 7
 http://voz.one:80/alexfnt/vTFBGKdUYq/65305
 #EXTINF:-1,STUDIO UNIVERSAL FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/460
@@ -319,17 +319,17 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/463
 http://voz.one:80/alexfnt/vTFBGKdUYq/131020
 #EXTINF:-1,TCM HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/467
-#EXTINF:-1,TELECINE ACTION FHD
+#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" TELECINE ACTION FHD 
 http://voz.one:80/alexfnt/vTFBGKdUYq/798
-#EXTINF:-1,TELECINE CULT FHD
+#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"TELECINE CULT FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/801
-#EXTINF:-1,TELECINE FUN FHD
+#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"TELECINE FUN FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/804
-#EXTINF:-1,TELECINE PIPOCA FHD
+#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"TELECINE PIPOCA FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/806
-#EXTINF:-1,TELECINE PREMIUM FHD
+#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"TELECINE PREMIUM FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/809
-#EXTINF:-1,TELECINE TOUCH FHD
+#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"TELECINE TOUCH FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/812
 #EXTINF:-1,TERRA VIVA HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/45889
