@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1,A FAZENDA - 01
+#EXTINF:-1,BBB 24 - 01
 http://voz.one:80/alexfnt/vTFBGKdUYq/254730
-#EXTINF:-1,A FAZENDA - 02
+#EXTINF:-1,BBB 24 - 02
 http://voz.one:80/alexfnt/vTFBGKdUYq/254731
-#EXTINF:-1,A FAZENDA - 03
+#EXTINF:-1,BBB 24 - 03
 http://voz.one:80/alexfnt/vTFBGKdUYq/254732
-#EXTINF:-1,A FAZENDA - 04
+#EXTINF:-1,BBB 24 - 04
 http://voz.one:80/alexfnt/vTFBGKdUYq/258180
-#EXTINF:-1,A FAZENDA - 05
+#EXTINF:-1,BBB 24 - 05
 http://voz.one:80/alexfnt/vTFBGKdUYq/258181
-#EXTINF:-1,A FAZENDA - 06
+#EXTINF:-1,BBB 24 - 06
 http://voz.one:80/alexfnt/vTFBGKdUYq/258182
 #EXTINF:-1,A&E FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/418
@@ -382,11 +382,4 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/656
 #EXTINF:-1,ZOOMO FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/659
 
-########################################BBB24
-
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB 24 Principal
- https://cr7v.short.gy/live/BBB1/Index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png", BBB 24 CAM 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/260488
 
