@@ -1,392 +1,3559 @@
 #EXTM3U
-
-#EXTINF:-1,tvg-logo="https://imgur.com/p65dwlm.png" BBB 24 - 01
-http://voz.one:80/alexfnt/vTFBGKdUYq/254730
-#EXTINF:-1,tvg-logo="https://imgur.com/p65dwlm.png" BBB 24 - 02
-http://voz.one:80/alexfnt/vTFBGKdUYq/254731
-#EXTINF:-1,tvg-logo="https://imgur.com/p65dwlm.png" BBB 24 - 03
-http://voz.one:80/alexfnt/vTFBGKdUYq/254732
-#EXTINF:-1,tvg-logo="https://imgur.com/p65dwlm.png" BBB 24 - 04
-http://voz.one:80/alexfnt/vTFBGKdUYq/258180
-#EXTINF:-1,tvg-logo="https://imgur.com/p65dwlm.png" BBB 24 - 05
-http://voz.one:80/alexfnt/vTFBGKdUYq/258181
-#EXTINF:-1,tvg-logo="https://imgur.com/p65dwlm.png" BBB 24 - 06
-http://voz.one:80/alexfnt/vTFBGKdUYq/258182
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png"A&E FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/418
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/AgroMais.png" Agro Canal
-http://voz.one:80/alexfnt/vTFBGKdUYq/98672
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/AgroMais.png" AgroBrasil TV
-http://voz.one:80/alexfnt/vTFBGKdUYq/65362
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" AMC FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/421
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/ANIMALPLANET.png" Animal Planet 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/225
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/ARTE1.png" ARTE 1 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/89347
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" AXN FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/424
-#EXTINF:-1,tvg-logo="https://yt3.googleusercontent.com/b5-GuGM5amAAszLlpemvfjsMv8SthDDwDOPxZGZMg0AE447xugLssYT50v_jcw9Vski10qqI=s900-c-k-c0x00ffffff-no-rj" BABY TV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/619
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" Band
-http://voz.one:80/alexfnt/vTFBGKdUYq/65271
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" BAND MG 
-http://voz.one:80/alexfnt/vTFBGKdUYq/95808
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDNEWS.png" BAND NEWS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/682
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" BAND SP
-http://voz.one:80/alexfnt/vTFBGKdUYq/252
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" BAND SPORTS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/385
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/BIS.png" BIS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/754
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" CANAL BRASIL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45893
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANALDOBOI.png" CANAL DO BOI
-http://voz.one:80/alexfnt/vTFBGKdUYq/45887
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANALRURAL.png" CANAL RURAL
-http://voz.one:80/alexfnt/vTFBGKdUYq/56166
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" Canal Sony (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13857
-#EXTINF:-1,tvg-logo="https://img.cancaonova.com/cnimages/especiais/uploads/sites/11/2014/09/marca_cancao_nova_jpg_v140517.jpg" CANÇÃO NOVA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/56241
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONNETWORK.png" CARTOON NETWORK FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/625
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONNETWORK.png" Cartoonito FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/622
-#EXTINF:-1,tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png" CAZE TV
-http://voz.one:80/alexfnt/vTFBGKdUYq/133932
-#EXTINF:-1,tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/cbn-logo-1.png" CBN SÃO PAULO
-http://voz.one:80/alexfnt/vTFBGKdUYq/64386
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" CINE CANAL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/432
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/CINEMAX.png" CINEMAX FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/427
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" CNN BRASIL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/684
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png" COMBATE FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/351
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMEDYCENTRAL.png" COMEDY CENTRAL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/757
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/CURTA!.jpg" Curta! FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65384
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" DISCOVERY CHANNEL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/4
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" DISCOVERY HOME & HEALTH FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/7
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYKIDS.png" DISCOVERY KIDS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/628
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" DISCOVERY SCIENCE FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/10
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" DISCOVERY THEATER FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/13
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/TLC.png" TLC FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/16
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png"DISCOVERY TURBO FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/19
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" DISCOVERY WORLD FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/22
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISNEYCHANNEL.png" DISNEY CHANNEL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/630
-#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/LRYjBlV6a8Wt-sVqWqs8NuK7xpMRVCUIdb-N6EV05JYB3U6RSNUdxDhnX61YVCx0khUV" DOG TV
-http://voz.one:80/alexfnt/vTFBGKdUYq/45882
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/E!.png" E! FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/762
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" ESPN 2 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/368
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" ESPN 3 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/361
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" ESPN 4 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/374
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" ESPN EXTRA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/388
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" ESPN FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/363
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/I/41X0CYPfkbL._AC_UF1000,1000_QL80_.jpg" EVENTOS EXTRAS
-http://voz.one:80/alexfnt/vTFBGKdUYq/134246
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/FASHIONTV.png" FASHION TV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64387
-#EXTINF:-1,tvg-logo="https://www.textual.com.br/wp-content/uploads/2019/10/FIlmeArts_site.png" FILM & ART FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45891
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/FISHTV.png" FISH TV FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/25
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOODNETWORK.png" FOOD NETWORK FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/749
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" FOX NEWS
-http://voz.one:80/alexfnt/vTFBGKdUYq/130689
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" FOX SPORTS 2 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/371
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/FUTURA.png" FUTURA
-http://voz.one:80/alexfnt/vTFBGKdUYq/256
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" FX FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/442
-#EXTINF:-1,tvg-logo="https://seeklogo.com/images/G/gazeta-logo-5F1A8CD351-seeklogo.com.png" Gazeta 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/222
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" Globo 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/231
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" GLOBO EPTV SUL DE MINAS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65223
-#EXTINF:-1,tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" GloboNews (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13885
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOOB.png" GLOOB FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/639
-#EXTINF:-1,tvg-name="Gloobinho HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOOBINHO.png" GLOOBINHO FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/668
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/GNT.png" GNT FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/766
-#EXTINF:-1,tvg-logo="https://img.freepik.com/premium-vector/goat-logo_677621-97.jpg" GOAT - HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/252460
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/HISTORY.png" H2 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/29
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" HBO 2 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/594
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" HBO FAMILY FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/597
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" HBO FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/600
-#EXTINF:-1,tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png" HBO MAX 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/57702
-#EXTINF:-1,tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png" HBO MAX 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/57703
-#EXTINF:-1,tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png" HBO MAX 3
-http://voz.one:80/alexfnt/vTFBGKdUYq/57704
-#EXTINF:-1,tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png" HBO MAX 4
-http://voz.one:80/alexfnt/vTFBGKdUYq/66044
-#EXTINF:-1,tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png" HBO MAX 5
-http://voz.one:80/alexfnt/vTFBGKdUYq/124780
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" HBO MUNDI FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/602
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" HBO PLUS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/605
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" HBO POP FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/608
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" HBO SIGNATURE FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/612
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" HBO Xtreme FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/615
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/HGTV.png" HGTV FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/769
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/HISTORY.png" HISTORY CHANNEL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/32
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/ID.png" ID - INVESTIGAÇÃO DISCOVERY FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/35
-#EXTINF:-1,tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTjgvi15XN0V3eEMOP-dHroih8_i__p8asJs_NLUA=s900-c-k-c0x00ffffff-no-rj" JP NEWS FHD 
-http://voz.one:80/alexfnt/vTFBGKdUYq/71488
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/LIFETIME.png" LIFETIME FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/445
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png" MEGAPIX FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/448
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/MODOVIAGEM.png" MODO VIAGEM FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65334
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTV.png" MTV FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/771
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTV.png" MTV Live FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65330
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/MULTISHOW.png" MULTISHOW FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/774
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/MUSICBOXBRAZIL.png" Music Box Brasil FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65326
-#EXTINF:-1,tvg-logo="https://teleonline.org/wp-content/uploads/2022/09/Music-Top-Argentina.jpeg" Music Top HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65328
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/NATGEO.png" NATIONAL GEOGRAPHIC FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/411
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" NICK JR FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/646
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKELODEON.png" NICKELODEON FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/649
-#EXTINF:-1,tvg-logo="https://i.imgur.com/6FAkXm9.png" OFF FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/777
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png" PARAMOUNT CHANNEL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/451
-#EXTINF:-1,tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" Paramount+ 1 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/84448
-#EXTINF:-1,tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" Paramount+ 2 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/84449
-#EXTINF:-1,tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" Paramount+ 3 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/84450
-#EXTINF:-1,tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" Paramount+ 4 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/84451
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" PREMIERE 2 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/701
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" PREMIERE 3 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/704
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" PREMIERE 4 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/708
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" PREMIERE 5 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/710
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" PREMIERE 6 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/47703
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" PREMIERE 7 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/697
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" PREMIERE CLUBES FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/718
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" PREMIERE MOSAICO
-http://voz.one:80/alexfnt/vTFBGKdUYq/717
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/PRIMEBOXBRAZIL.png" PRIME BOX BRASIL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/794
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" RECORD MINAS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/285
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDNEWS.png" RECORD NEWS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/689
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" RECORD SP FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/294
-#EXTINF:-1,tvg-logo="https://rbtv.com.br/upload_arquivos/2023/04/2023040498713001681148591.png" Rede Brasil TV
-http://voz.one:80/alexfnt/vTFBGKdUYq/45915
-#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/1333503642129850369/UvfE1X3v_400x400.jpg" Rede Familia FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65387
-#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/1642122992858677249/2ZwrxBJy_400x400.jpg" REDE FURACÃO
-http://voz.one:80/alexfnt/vTFBGKdUYq/45876
-#EXTINF:-1,tvg-logo="https://redeminas.tv/wp-content/uploads/2020/12/Destaque-Home-1.png" REDE MINAS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45894
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDETV!.png" REDE TV FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/258
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEVIDA.png" Rede VIDA
-http://voz.one:80/alexfnt/vTFBGKdUYq/96152
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/ARTE1.png" ARTE 1²
-http://voz.one:80/alexfnt/vTFBGKdUYq/65372
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" SBT 
-http://voz.one:80/alexfnt/vTFBGKdUYq/65254
-#EXTINF:-1,tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/shoptime-logo-0-1.png" Shoptime FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65316
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" SKY PLAY 01
-http://voz.one:80/alexfnt/vTFBGKdUYq/343
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" SKY PLAY 02
-http://voz.one:80/alexfnt/vTFBGKdUYq/344
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" SKY PLAY 03
-http://voz.one:80/alexfnt/vTFBGKdUYq/345
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" SKY PLAY 04
-http://voz.one:80/alexfnt/vTFBGKdUYq/346
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" SKY PLAY 05
-http://voz.one:80/alexfnt/vTFBGKdUYq/324
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" SKY PLAY 06
-http://voz.one:80/alexfnt/vTFBGKdUYq/338
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" SKY PLAY 07
-http://voz.one:80/alexfnt/vTFBGKdUYq/333
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" SKY PLAY 08
-http://voz.one:80/alexfnt/vTFBGKdUYq/339
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" SKY PLAY 09
-http://voz.one:80/alexfnt/vTFBGKdUYq/342
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" SKY PLAY 10
-http://voz.one:80/alexfnt/vTFBGKdUYq/335
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" SKY PLAY 11
-http://voz.one:80/alexfnt/vTFBGKdUYq/340
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" SONY FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/454
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png" SPACE FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/457
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" SPORTV 2 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/737
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" SPORTV 3 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/740
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" SPORTV 4 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/56036
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" SPORTV FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/743
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" STAR CHANNEL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/430
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" STAR+ 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/57676
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" STAR+ 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/57706
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" STAR+ 3
-http://voz.one:80/alexfnt/vTFBGKdUYq/57707
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" STAR+ 4
-http://voz.one:80/alexfnt/vTFBGKdUYq/65302
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" STAR+ 5
-http://voz.one:80/alexfnt/vTFBGKdUYq/65303
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" STAR+ 6
-http://voz.one:80/alexfnt/vTFBGKdUYq/65304
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" STAR+ 7
-http://voz.one:80/alexfnt/vTFBGKdUYq/65305
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png" STUDIO UNIVERSAL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/460
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/SYFY.png" SYFY FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/463
-#EXTINF:-1,tvg-logo="https://pbs.twimg.com/card_img/1751001758678028289/JovhECJS?format=jpg&name=small" TBC BRASIL CENTRAL
-http://voz.one:80/alexfnt/vTFBGKdUYq/131020
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" TCM HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/467
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" TELECINE ACTION FHD 
-http://voz.one:80/alexfnt/vTFBGKdUYq/798
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"TELECINE CULT FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/801
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"TELECINE FUN FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/804
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"TELECINE PIPOCA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/806
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"TELECINE PREMIUM FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/809
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"TELECINE TOUCH FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/812
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Terra_Viva_logo.svg" TERRA VIVA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45889
-#EXTINF:-1,tvg-logo="https://t4.ftcdn.net/jpg/05/18/94/41/360_F_518944161_86zA70xMlMv326ExBSiak6FIXZWHTT3t.jpg" TMC FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/485
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" TNT FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/469
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" TNT NOVELAS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/487
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" TNT SERIES FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/472
-#EXTINF:-1,tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png" TOONCAST FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/653
-#EXTINF:-1,tvg-logo="https://lion-web-site.s3.sa-east-1.amazonaws.com/upload/MzIzMzI/1679335590-logo-travel.png" TRAVEL BOX BRASIL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45881
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/TRUTV.png" TRU TV FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/792
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVAPARECIDA.png" TV APARECIDA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/727
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVBRASIL.png" TV BRASIL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/261
-#EXTINF:-1,tvg-logo="https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg" TV Camara FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65311
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVCULTURA.png" TV CULTURA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/254
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" Tv Escola
-http://voz.one:80/alexfnt/vTFBGKdUYq/45929
-#EXTINF:-1,tvg-logo="https://media.licdn.com/dms/image/C560BAQH-en4lGkj-7Q/company-logo_200_200/0/1630613262203?e=2147483647&v=beta&t=R04waSkJrlh6Clyfmz-pEAmc7cU-J6qLmHgT_Q9St9U" TV PAI ETERNO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/49788
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" TV RA TIM BUM FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/655
-#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/z1QEK3asDxJeX-Sy7rQIZTu0NO2BbYMFhJqGR7O6SpkhS8CFGo7y7HLUhh1Q61ntoLiU" TV Senado
-http://voz.one:80/alexfnt/vTFBGKdUYq/45922
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_TVE-HD.svg/2560px-Logo_TVE-HD.svg.png" TVE FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65263W
-#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/RAd9B7xcEckaTwiTYBE95p3Qk6qjm77XIm8fOuKViWTyd2N9DZVcQDtvHkB3AmCMiVYm" UFC FIGHT PASS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/130678
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" UNIVERSAL TV FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/475
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/VIVA.png" VIVA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/784
-#EXTINF:-1,tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png" WARNER CHANNEL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/478
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" WOOHOO FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/656
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/2438px-ZooMoo_logo.svg.png" ZOOMO FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/659
-#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/1479075914386448392/64k6l2LR_400x400.jpg" TV Evangelizar
-http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" DAZN 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/354
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" DAZN 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/355
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" DAZN 3
-http://voz.one:80/alexfnt/vTFBGKdUYq/356
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" DAZN 4
-http://voz.one:80/alexfnt/vTFBGKdUYq/357
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" DAZN 5
-http://voz.one:80/alexfnt/vTFBGKdUYq/65282
-#EXTINF:-1,tvg-logo="https://s2-g1.glbimg.com/YKv2ncmrfH68q-LaVkx93p1-lFE=/0x0:300x400/984x0/smart/filters:strip_icc()/s.glbimg.com/jo/g1/f/original/2012/04/11/simpsons2.jpg" [24H] Os Simpsons 01
-http://voz.one:80/alexfnt/vTFBGKdUYq/95691
-#EXTINF:-1,tvg-logo="https://s2-g1.glbimg.com/YKv2ncmrfH68q-LaVkx93p1-lFE=/0x0:300x400/984x0/smart/filters:strip_icc()/s.glbimg.com/jo/g1/f/original/2012/04/11/simpsons2.jpg"[24H] Os Simpsons 02
-http://voz.one:80/alexfnt/vTFBGKdUYq/95692
-#EXTINF:-1,tvg-logo="https://s2-g1.glbimg.com/YKv2ncmrfH68q-LaVkx93p1-lFE=/0x0:300x400/984x0/smart/filters:strip_icc()/s.glbimg.com/jo/g1/f/original/2012/04/11/simpsons2.jpg"[24H] Os Simpsons 03
-http://voz.one:80/alexfnt/vTFBGKdUYq/95693
-#EXTINF:-1,tvg-logo="https://s2-g1.glbimg.com/YKv2ncmrfH68q-LaVkx93p1-lFE=/0x0:300x400/984x0/smart/filters:strip_icc()/s.glbimg.com/jo/g1/f/original/2012/04/11/simpsons2.jpg"[24H] Os Simpsons 04
-http://voz.one:80/alexfnt/vTFBGKdUYq/95694
-#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/dublagem/images/e/e8/2019-463-series-cbs-jul-everybody-hates-chris-poster.jpg/revision/latest?cb=20220106160445&path-prefix=pt-br" [24H] Todo Mundo Odeia o Chris 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95702
-#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/dublagem/images/e/e8/2019-463-series-cbs-jul-everybody-hates-chris-poster.jpg/revision/latest?cb=20220106160445&path-prefix=pt-br"[24H] Todo Mundo Odeia o Chris 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95703
-
-
+#EXTINF:-1,A&E FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4864
+#EXTINF:-1,A&E FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4085
+#EXTINF:-1,A&E HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4084
+#EXTINF:-1,A&E SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4083
+#EXTINF:-1,AGRO MAIS FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4844
+#EXTINF:-1,AGRO MAIS HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4845
+#EXTINF:-1,AGRO MAIS SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4846
+#EXTINF:-1,AMC FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4865
+#EXTINF:-1,AMC FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4758
+#EXTINF:-1,AMC HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4082
+#EXTINF:-1,AMC SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4081
+#EXTINF:-1,ANIMAL PLANET FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4911
+#EXTINF:-1,ANIMAL PLANET FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4080
+#EXTINF:-1,ANIMAL PLANET HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4079
+#EXTINF:-1,ANIMAL PLANET SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4078
+#EXTINF:-1,ARTE1 FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6786
+#EXTINF:-1,ARTE1 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4835
+#EXTINF:-1,ARTE1 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4836
+#EXTINF:-1,ARTE1 SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4837
+#EXTINF:-1,ASSEMBLÉIA LEGISLATIVA FHD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7379
+#EXTINF:-1,ASSEMBLÉIA LEGISLATIVA HD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7380
+#EXTINF:-1,ASSEMBLÉIA LEGISLATIVA SD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7381
+#EXTINF:-1,AXN FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4866
+#EXTINF:-1,AXN FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4077
+#EXTINF:-1,AXN HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4076
+#EXTINF:-1,AXN SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4075
+#EXTINF:-1,BABYTV FHD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7359
+#EXTINF:-1,BABYTV HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4074
+#EXTINF:-1,BABYTV SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4073
+#EXTINF:-1,BAND NATAL [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7487
+#EXTINF:-1,BAND TV TRIBUNA RECIFE [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7486
+#EXTINF:-1,BAND MANAIRA PARAIBA [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7485
+#EXTINF:-1,BAND CASCAVEL TV TAROBA [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7484
+#EXTINF:-1,BAND CEARA [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7483
+#EXTINF:-1,BAND RIO [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7482
+#EXTINF:-1,BAND RS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7395
+#EXTINF:-1,BAND CAMPINAS FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4072
+#EXTINF:-1,BAND CAMPINAS SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4071
+#EXTINF:-1,BAND NEWS FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6787
+#EXTINF:-1,BAND NEWS FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4760
+#EXTINF:-1,BAND NEWS HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4069
+#EXTINF:-1,BAND NEWS SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4068
+#EXTINF:-1,BAND SP FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4867
+#EXTINF:-1,BAND SP FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4759
+#EXTINF:-1,BAND SP HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4067
+#EXTINF:-1,BAND SP SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4066
+#EXTINF:-1,BAND SPORTS FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6788
+#EXTINF:-1,BAND SPORTS FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4761
+#EXTINF:-1,BAND SPORTS HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4065
+#EXTINF:-1,BAND SPORTS SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4064
+#EXTINF:-1,BBB CAM 1
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3706
+#EXTINF:-1,BBB CAM 2 
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3703
+#EXTINF:-1,BBB CAM 3
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3702
+#EXTINF:-1,BBB CAM 4
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3701
+#EXTINF:-1,BBB CAM 5
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3700
+#EXTINF:-1,BBB CAM 6 
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3699
+#EXTINF:-1,BBB CAM 7 
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3698
+#EXTINF:-1,BBB CAM 8
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3697
+#EXTINF:-1,BBB CAM 9
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3696
+#EXTINF:-1,BBB CAM 10
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3705
+#EXTINF:-1,BBB CAM 11
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3704
+#EXTINF:-1,BBB 1 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6978
+#EXTINF:-1,BBB 1 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4063
+#EXTINF:-1,BBB 2 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4061
+#EXTINF:-1,BBB 2 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4062
+#EXTINF:-1,BBB MOSAICO FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4058
+#EXTINF:-1,BBB MOSAICO HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4059
+#EXTINF:-1,BIS FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6789
+#EXTINF:-1,BIS FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4762
+#EXTINF:-1,BIS HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4056
+#EXTINF:-1,BIS SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4055
+#EXTINF:-1,BLOOMBERG FHD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7373
+#EXTINF:-1,BLOOMBERG HD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6994
+#EXTINF:-1,BLOOMBERG SD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6995
+#EXTINF:-1,BOA VONTADE SD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7386
+#EXTINF:-1,BOA VONTADE HD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7385
+#EXTINF:-1,BOA VONTADE FHD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7384
+#EXTINF:-1,CARTOONITO FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6790
+#EXTINF:-1,CARTOONITO FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4763
+#EXTINF:-1,CARTOONITO HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4054
+#EXTINF:-1,CARTOONITO SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4053
+#EXTINF:-1,CANAL BRASIL FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6791
+#EXTINF:-1,CANAL BRASIL FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4764
+#EXTINF:-1,CANAL BRASIL HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4052
+#EXTINF:-1,CANAL BRASIL SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4765
+#EXTINF:-1,CANAL DO BOI FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4767
+#EXTINF:-1,CANAL DO BOI HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4047
+#EXTINF:-1,CANAL DO BOI SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4768
+#EXTINF:-1,CANAL EMPREENDER FHD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7353
+#EXTINF:-1,CANAL EMPREENDER HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7354
+#EXTINF:-1,CANAL EMPREENDER SD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7355
+#EXTINF:-1,CANAL FUTURA FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4769
+#EXTINF:-1,CANAL FUTURA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4046
+#EXTINF:-1,CANAL FUTURA SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4045
+#EXTINF:-1,CANAL OFF FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4884
+#EXTINF:-1,CANAL OFF FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4770
+#EXTINF:-1,CANAL OFF HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4044
+#EXTINF:-1,CANAL OFF SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4043
+#EXTINF:-1,CANAL RURAL FHD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7365
+#EXTINF:-1,CANAL RURAL HD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7366
+#EXTINF:-1,CANAL RURAL SD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7367
+#EXTINF:-1,CANAL SONY FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4868
+#EXTINF:-1,CANAL SONY FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4042
+#EXTINF:-1,CANAL SONY HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3816
+#EXTINF:-1,CANAL SONY SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3815
+#EXTINF:-1,CANAL WOOHOO FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6792
+#EXTINF:-1,CANAL WOOHOO FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4771
+#EXTINF:-1,CANAL WOOHOO HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4041
+#EXTINF:-1,CANAL WOOHOO SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4040
+#EXTINF:-1,CANÇÃO NOVA FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6732
+#EXTINF:-1,CANÇÃO NOVA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4051
+#EXTINF:-1,CANÇÃO NOVA SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4050
+#EXTINF:-1,CARTOON NETWORK FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6793
+#EXTINF:-1,CARTOON NETWORK FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4039
+#EXTINF:-1,CARTOON NETWORK HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4038
+#EXTINF:-1,CARTOON NETWORK SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4037
+#EXTINF:-1,CINE CANAL FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6829
+#EXTINF:-1,CINE CANAL FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3796
+#EXTINF:-1,CINE CANAL HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3795
+#EXTINF:-1,CINE CANAL SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4822
+#EXTINF:-1,CINE SKY 01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3663
+#EXTINF:-1,CINE SKY 02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3662
+#EXTINF:-1,CINE SKY 03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3661
+#EXTINF:-1,CINE SKY 04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3660
+#EXTINF:-1,CINE SKY 05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3659
+#EXTINF:-1,CINE SKY 06
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3658
+#EXTINF:-1,CINE SKY 07
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3657
+#EXTINF:-1,CINE SKY 08
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3656
+#EXTINF:-1,CINE SKY 09
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3655
+#EXTINF:-1,CINEMAX FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6794
+#EXTINF:-1,CINEMAX FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4774
+#EXTINF:-1,CINEMAX HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4035
+#EXTINF:-1,CINEMAX SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4034
+#EXTINF:-1,CNN BRASIL FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6795
+#EXTINF:-1,CNN BRASIL FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4775
+#EXTINF:-1,CNN BRASIL HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4033
+#EXTINF:-1,CNN BRASIL SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4032
+#EXTINF:-1,CNN INTERNACIONAL HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6992
+#EXTINF:-1,CNN INTERNACIONAL SD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6993
+#EXTINF:-1,COMBATE FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4869
+#EXTINF:-1,COMBATE FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4031
+#EXTINF:-1,COMBATE HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4030
+#EXTINF:-1,COMBATE SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4029
+#EXTINF:-1,COMEDY CENTRAL FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6796
+#EXTINF:-1,COMEDY CENTRAL FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4028
+#EXTINF:-1,COMEDY CENTRAL HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4027
+#EXTINF:-1,COMEDY CENTRAL SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4026
+#EXTINF:-1,CONMEBOL PARAMOUNT+ 1 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4776
+#EXTINF:-1,CONMEBOL PARAMOUNT+ 2 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4778
+#EXTINF:-1,CONMEBOL PARAMOUNT+ 3 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4780
+#EXTINF:-1,CONMEBOL PARAMOUNT+ 4 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4782
+#EXTINF:-1,CULTURA FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6797
+#EXTINF:-1,CULTURA FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4784
+#EXTINF:-1,CULTURA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4017
+#EXTINF:-1,CULTURA SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4016
+#EXTINF:-1,CURTA FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6798
+#EXTINF:-1,CURTA! FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4766
+#EXTINF:-1,CURTA! HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4049
+#EXTINF:-1,CURTA! SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4048
+#EXTINF:-1,DISCOVERY CHANNEL FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6784
+#EXTINF:-1,DISCOVERY CHANNEL FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4009
+#EXTINF:-1,DISCOVERY CHANNEL HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4008
+#EXTINF:-1,DISCOVERY CHANNEL SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4007
+#EXTINF:-1,DISCOVERY H&H FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4871
+#EXTINF:-1,DISCOVERY H&H FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4010
+#EXTINF:-1,DISCOVERY H&H HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4004
+#EXTINF:-1,DISCOVERY H&H SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4003
+#EXTINF:-1,DISCOVERY KIDS FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6799
+#EXTINF:-1,DISCOVERY KIDS FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4785
+#EXTINF:-1,DISCOVERY KIDS HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4002
+#EXTINF:-1,DISCOVERY KIDS SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4001
+#EXTINF:-1,DISCOVERY SCIENCE FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6800
+#EXTINF:-1,DISCOVERY SCIENCE FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4000
+#EXTINF:-1,DISCOVERY SCIENCE HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3999
+#EXTINF:-1,DISCOVERY SCIENCE SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3998
+#EXTINF:-1,DISCOVERY THEATER FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6801
+#EXTINF:-1,DISCOVERY THEATER FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4786
+#EXTINF:-1,DISCOVERY THEATER HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3997
+#EXTINF:-1,DISCOVERY THEATER SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3996
+#EXTINF:-1,DISCOVERY TURBO FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4872
+#EXTINF:-1,DISCOVERY TURBO FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3995
+#EXTINF:-1,DISCOVERY TURBO HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3994
+#EXTINF:-1,DISCOVERY TURBO SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3993
+#EXTINF:-1,DISCOVERY WORLD FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6802
+#EXTINF:-1,DISCOVERY WORLD FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3992
+#EXTINF:-1,DISCOVERY WORLD HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3991
+#EXTINF:-1,DISCOVERY WORLD SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3990
+#EXTINF:-1,DISNEY CHANNEL FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6803
+#EXTINF:-1,DISNEY CHANNEL FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3988
+#EXTINF:-1,DISNEY CHANNEL HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3989
+#EXTINF:-1,DISNEY CHANNEL SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3987
+#EXTINF:-1,DOGTV FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6805
+#EXTINF:-1,DOGTV FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4853
+#EXTINF:-1,DOGTV HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4854
+#EXTINF:-1,DOGTV SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4855
+#EXTINF:-1,DUBAI SPORTS 1 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5861
+#EXTINF:-1,DUBAI SPORTS 2 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5862
+#EXTINF:-1,DW ESPANHOL SD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3591
+#EXTINF:-1,E! FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6806
+#EXTINF:-1,E! FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4788
+#EXTINF:-1,E! HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3982
+#EXTINF:-1,E! SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3981
+#EXTINF:-1,ESPN FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4873
+#EXTINF:-1,ESPN FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4789
+#EXTINF:-1,ESPN HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3980
+#EXTINF:-1,ESPN SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3979
+#EXTINF:-1,ESPN EXTRA FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4874
+#EXTINF:-1,ESPN EXTRA FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4790
+#EXTINF:-1,ESPN EXTRA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3977
+#EXTINF:-1,ESPN EXTRA SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3978
+#EXTINF:-1,ESPN2 FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4875
+#EXTINF:-1,ESPN2 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4791
+#EXTINF:-1,ESPN2 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3976
+#EXTINF:-1,ESPN2 SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3975
+#EXTINF:-1,ESPN3 FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4876
+#EXTINF:-1,ESPN3 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4792
+#EXTINF:-1,ESPN3 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3974
+#EXTINF:-1,ESPN3 SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3973
+#EXTINF:-1,ESPN 4 FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4878
+#EXTINF:-1,ESPN 4 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3962
+#EXTINF:-1,ESPN 4 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3961
+#EXTINF:-1,ESPN 4 SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3960
+#EXTINF:-1,EUROCHANEL FHD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6997
+#EXTINF:-1,EUROCHANEL HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6999
+#EXTINF:-1,FASHION TV FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6849
+#EXTINF:-1,FASHION TV HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6850
+#EXTINF:-1,FASHION TV SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6851
+#EXTINF:-1,FILM&ARTS FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6807
+#EXTINF:-1,FILM&ARTS FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4793
+#EXTINF:-1,FILM&ARTS HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3972
+#EXTINF:-1,FILM&ARTS SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3971
+#EXTINF:-1,FISH TV FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6808
+#EXTINF:-1,FISH TV FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3970
+#EXTINF:-1,FISH TV HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3969
+#EXTINF:-1,FISH TV SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3968
+#EXTINF:-1,FOOD NETWORK FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6809
+#EXTINF:-1,FOOD NETWORK FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4794
+#EXTINF:-1,FOOD NETWORK HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3967
+#EXTINF:-1,FOOD NETWORK SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3966
+#EXTINF:-1,FOX SPORTS 2 FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4877
+#EXTINF:-1,FOX SPORTS 2 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3965
+#EXTINF:-1,FOX SPORTS 2 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3964
+#EXTINF:-1,FOX SPORTS 2 SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3963
+#EXTINF:-1,FRANCE 24H FHD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6982
+#EXTINF:-1,FRANCE 24H HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6990
+#EXTINF:-1,FRANCE 24H SD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6991
+#EXTINF:-1,FX FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6810
+#EXTINF:-1,FX FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3959
+#EXTINF:-1,FX HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3958
+#EXTINF:-1,FX SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3957
+#EXTINF:-1,GAZETA FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4879
+#EXTINF:-1,GAZETA FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4850
+#EXTINF:-1,GAZETA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4851
+#EXTINF:-1,GAZETA SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4852
+#EXTINF:-1,GLOBO ACRE RIO BRANCO FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6860
+#EXTINF:-1,GLOBO ACRE RIO BRANCO HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6861
+#EXTINF:-1,GLOBO AMAPÁ FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6742
+#EXTINF:-1,GLOBO AMAPÁ HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6743
+#EXTINF:-1,GLOBO BELEM HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6744
+#EXTINF:-1,GLOBO BELEM [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3938
+#EXTINF:-1,GLOBO BRASILIA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6752
+#EXTINF:-1,GLOBO BRASILIA SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3956
+#EXTINF:-1,GLOBO CEARÁ FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6748
+#EXTINF:-1,GLOBO CEARÁ HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6749
+#EXTINF:-1,GLOBO CURITIBA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6750
+#EXTINF:-1,GLOBO CURITIBA SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4964
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3955
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3954
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3947
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3946
+#EXTINF:-1,GLOBO EPTV SÃO CARLOS SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3941
+#EXTINF:-1,GLOBO FLORIANOPOLIS HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3952
+#EXTINF:-1,GLOBO FLORIANÓPOLIS SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3953
+#EXTINF:-1,GLOBO MARANHÃO FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6756
+#EXTINF:-1,GLOBO MARANHÃO HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6757
+#EXTINF:-1,GLOBO MINAS HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6746
+#EXTINF:-1,GLOBO MINAS SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3950
+#EXTINF:-1,GLOBO NATAL FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6862
+#EXTINF:-1,GLOBO NATAL HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6863
+#EXTINF:-1,GLOBO NEWS FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6811
+#EXTINF:-1,GLOBO NEWS FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3931
+#EXTINF:-1,GLOBO NEWS HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3930
+#EXTINF:-1,GLOBO NEWS SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3929
+#EXTINF:-1,GLOBO NORDESTE HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4925
+#EXTINF:-1,GLOBO NORDESTE SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3949
+#EXTINF:-1,GLOBO PERNAMBUCO HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6864
+#EXTINF:-1,GLOBO PERNAMBUCO FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6865
+#EXTINF:-1,GLOBO PORTO ALEGRE HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6768
+#EXTINF:-1,GLOBO PORTO ALEGRE SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4968
+#EXTINF:-1,GLOBO REDE AMAZÔNICA MANAUS FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6758
+#EXTINF:-1,GLOBO REDE AMAZÔNICA MANAUS HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4967
+#EXTINF:-1,GLOBO RIO HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3945
+#EXTINF:-1,GLOBO RIO SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6765
+#EXTINF:-1,GLOBO RONDONIA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6766
+#EXTINF:-1,GLOBO RONDONIA SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6767
+#EXTINF:-1,GLOBO RORAIMA FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6760
+#EXTINF:-1,GLOBO RORAIMA SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6761
+#EXTINF:-1,GLOBO SJRP FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6888
+#EXTINF:-1,GLOBO SJRP HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3751
+#EXTINF:-1,GLOBO SP FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4880
+#EXTINF:-1,GLOBO SP FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4795
+#EXTINF:-1,GLOBO SP HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3943
+#EXTINF:-1,GLOBO SP SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3942
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6754
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6755
+#EXTINF:-1,GLOBO TV BAHIA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6770
+#EXTINF:-1,GLOBO TV BAHIA [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3939
+#EXTINF:-1,GLOBO TV TEM BAURU HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4924
+#EXTINF:-1,GLOBO TV TEM BAURU FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3937
+#EXTINF:-1,GLOBO TV TEM SJRP [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3936
+#EXTINF:-1,GLOBO TV TEM SOROCABA [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3935
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3934
+#EXTINF:-1,GLOBO TV VANGUARDA SJDC FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3933
+#EXTINF:-1,GLOBO TV VERDES MARES [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3932
+#EXTINF:-1,GLOBO VITÓRIA FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6772
+#EXTINF:-1,GLOBO VITÓRIA HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6773
+#EXTINF:-1,GLOOB FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6812
+#EXTINF:-1,GLOOB FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4796
+#EXTINF:-1,GLOOB HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3928
+#EXTINF:-1,GLOOB SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3927
+#EXTINF:-1,GLOOBINHO FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6813
+#EXTINF:-1,GLOOBINHO FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4838
+#EXTINF:-1,GLOOBINHO HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4839
+#EXTINF:-1,GLOOBINHO SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4840
+#EXTINF:-1,GNT FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6814
+#EXTINF:-1,GNT FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4797
+#EXTINF:-1,GNT HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3926
+#EXTINF:-1,GNT SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3925
+#EXTINF:-1,H2 FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4883
+#EXTINF:-1,H2 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3924
+#EXTINF:-1,H2 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3923
+#EXTINF:-1,H2 SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3922
+#EXTINF:-1,HBO 2 FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4919
+#EXTINF:-1,HBO 2 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3898
+#EXTINF:-1,HBO 2 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3921
+#EXTINF:-1,HBO 2 SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3920
+#EXTINF:-1,HBO FAMILY FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4914
+#EXTINF:-1,HBO FAMILY FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3919
+#EXTINF:-1,HBO FAMILY HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3918
+#EXTINF:-1,HBO FAMILY SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3917
+#EXTINF:-1,HBO FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4915
+#EXTINF:-1,HBO FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3916
+#EXTINF:-1,HBO HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3915
+#EXTINF:-1,HBO MAIS FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4918
+#EXTINF:-1,HBO MAIS FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3899
+#EXTINF:-1,HBO MAIS HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3911
+#EXTINF:-1,HBO MAIS SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3910
+#EXTINF:-1,HBO MAX STAR+ 01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6854
+#EXTINF:-1,HBO MAX STAR+ 02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6855
+#EXTINF:-1,HBO MAX STAR+ 03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6856
+#EXTINF:-1,HBO MUNDI FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4912
+#EXTINF:-1,HBO MUNDI FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3914
+#EXTINF:-1,HBO MUNDI HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3913
+#EXTINF:-1,HBO MUNDI SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3912
+#EXTINF:-1,HBO POP FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4916
+#EXTINF:-1,HBO POP FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3909
+#EXTINF:-1,HBO POP HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3908
+#EXTINF:-1,HBO POP SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3907
+#EXTINF:-1,HBO SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3906
+#EXTINF:-1,HBO SIGNATURE FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4917
+#EXTINF:-1,HBO SIGNATURE FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3905
+#EXTINF:-1,HBO SIGNATURE HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3904
+#EXTINF:-1,HBO SIGNATURE SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3903
+#EXTINF:-1,HBO XTREME FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4913
+#EXTINF:-1,HBO XTREME FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3902
+#EXTINF:-1,HBO XTREME HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3901
+#EXTINF:-1,HBO XTREME SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3900
+#EXTINF:-1,HGTV FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4881
+#EXTINF:-1,HGTV FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4036
+#EXTINF:-1,HGTV HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4006
+#EXTINF:-1,HGTV SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4005
+#EXTINF:-1,HISTORY CHANNEL FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4882
+#EXTINF:-1,HISTORY CHANNEL FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3895
+#EXTINF:-1,HISTORY CHANNEL HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3897
+#EXTINF:-1,HISTORY CHANNEL SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3896
+#EXTINF:-1,DISCOVERY ID FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4920
+#EXTINF:-1,DISCOVERY ID FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3894
+#EXTINF:-1,DISCOVERY ID HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3893
+#EXTINF:-1,DISCOVERY ID SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3892
+#EXTINF:-1,JOVEM PAN NEWS FHD H265
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7343
+#EXTINF:-1,JOVEM PAN NEWS FHD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6866
+#EXTINF:-1,JOVEM PAN NEWS HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6867
+#EXTINF:-1,JOVEM PAN NEWS SD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6868
+#EXTINF:-1,LIFETIME FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6815
+#EXTINF:-1,LIFETIME FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3891
+#EXTINF:-1,LIFETIME HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3890
+#EXTINF:-1,LIFETIME SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3889
+#EXTINF:-1,LNF TV FUSTAL HD 02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4582
+#EXTINF:-1,LNF TV FUTSAL HD 01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4581
+#EXTINF:-1,IDEAL FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6816
+#EXTINF:-1,IDEAL TV FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4847
+#EXTINF:-1,IDEAL TV HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4848
+#EXTINF:-1,IDEAL SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4849
+#EXTINF:-1,MARKKET SD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7358
+#EXTINF:-1,MARKKET HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7357
+#EXTINF:-1,MARKKET FHD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7356
+#EXTINF:-1,MODO VIAGEM FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6817
+#EXTINF:-1,MODO VIAGEM FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4800
+#EXTINF:-1,MODO VIAGEM HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3888
+#EXTINF:-1,MODO VIAGEM SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3887
+#EXTINF:-1,MEGAPIX FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6818
+#EXTINF:-1,MEGAPIX FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4801
+#EXTINF:-1,MEGAPIX HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3886
+#EXTINF:-1,MEGAPIX SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3885
+#EXTINF:-1,MTV '00 FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6819
+#EXTINF:-1,MTV '00 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3744
+#EXTINF:-1,MTV '00 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3743
+#EXTINF:-1,MTV '00 SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3742
+#EXTINF:-1,MTV FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6820
+#EXTINF:-1,MTV FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3884
+#EXTINF:-1,MTV HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3883
+#EXTINF:-1,MTV LIVE FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6821
+#EXTINF:-1,MTV LIVE FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4802
+#EXTINF:-1,MTV LIVE HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3882
+#EXTINF:-1,MTV LIVE SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4803
+#EXTINF:-1,MTV SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3881
+#EXTINF:-1,MULTISHOW FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6822
+#EXTINF:-1,MULTISHOW FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4804
+#EXTINF:-1,MULTISHOW HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3880
+#EXTINF:-1,MULTISHOW SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3879
+#EXTINF:-1,MUSIC BOX BRAZIL FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6836
+#EXTINF:-1,MUSIC BOX BRAZIL HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6837
+#EXTINF:-1,MUSIC BOX BRAZIL SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6838
+#EXTINF:-1,NATGEO FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6823
+#EXTINF:-1,NATGEO FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3872
+#EXTINF:-1,NATGEO HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3871
+#EXTINF:-1,NATGEO SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3870
+#EXTINF:-1,NHK HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3869
+#EXTINF:-1,NHK SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3868
+#EXTINF:-1,NICK JR FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6826
+#EXTINF:-1,NICK JR FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3865
+#EXTINF:-1,NICK JR HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3867
+#EXTINF:-1,NICK JR SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3866
+#EXTINF:-1,NICKELODEON FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6827
+#EXTINF:-1,NICKELODEON FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3864
+#EXTINF:-1,NICKELODEON HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3863
+#EXTINF:-1,NICKELODEON SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3862
+#EXTINF:-1,ONEFOOTBALL FHD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6852
+#EXTINF:-1,PARAMOUNT CHANNEL FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4885
+#EXTINF:-1,PARAMOUNT CHANNEL FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3859
+#EXTINF:-1,PARAMOUNT CHANNEL HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3861
+#EXTINF:-1,PARAMOUNT CHANNEL SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3860
+#EXTINF:-1,POLISHOP HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7004
+#EXTINF:-1,POLISHOP SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4971
+#EXTINF:-1,PREMIERE 2 FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4886
+#EXTINF:-1,PREMIERE 2 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4806
+#EXTINF:-1,PREMIERE 2 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3853
+#EXTINF:-1,PREMIERE 2 SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3852
+#EXTINF:-1,PREMIERE 3 FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4887
+#EXTINF:-1,PREMIERE 3 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4807
+#EXTINF:-1,PREMIERE 3 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3851
+#EXTINF:-1,PREMIERE 3 SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3850
+#EXTINF:-1,PREMIERE 4 FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4888
+#EXTINF:-1,PREMIERE 4 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4808
+#EXTINF:-1,PREMIERE 4 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3849
+#EXTINF:-1,PREMIERE 4 SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3848
+#EXTINF:-1,PREMIERE 5 FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4889
+#EXTINF:-1,PREMIERE 5 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4809
+#EXTINF:-1,PREMIERE 5 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3847
+#EXTINF:-1,PREMIERE 5 SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3846
+#EXTINF:-1,PREMIERE 6 FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4890
+#EXTINF:-1,PREMIERE 6 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4810
+#EXTINF:-1,PREMIERE 6 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3845
+#EXTINF:-1,PREMIERE 6 SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3844
+#EXTINF:-1,PREMIERE 7 FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4891
+#EXTINF:-1,PREMIERE 7 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4811
+#EXTINF:-1,PREMIERE 7 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3843
+#EXTINF:-1,PREMIERE 7 SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3842
+#EXTINF:-1,PREMIERE CLUBES FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4892
+#EXTINF:-1,PREMIERE CLUBES FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4812
+#EXTINF:-1,PREMIERE CLUBES HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3855
+#EXTINF:-1,PREMIERE CLUBES SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3854
+#EXTINF:-1,PRIME BOX BRAZIL FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6839
+#EXTINF:-1,PRIME BOX BRAZIL HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6841
+#EXTINF:-1,PRIME BOX BRAZIL SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6840
+#EXTINF:-1,RAI HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3841
+#EXTINF:-1,RAI SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4970
+#EXTINF:-1,RECORD BAHIA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4973
+#EXTINF:-1,RECORD BAHIA SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4974
+#EXTINF:-1,RECORD BELEM HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4975
+#EXTINF:-1,RECORD BELEM SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4976
+#EXTINF:-1,RECORD BRASILIA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4977
+#EXTINF:-1,RECORD BRASILIA SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4978
+#EXTINF:-1,RECORD CAMPINAS FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3840
+#EXTINF:-1,RECORD CAMPINAS HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3839
+#EXTINF:-1,RECORD GOIAS HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4979
+#EXTINF:-1,RECORD GOIAS SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3834
+#EXTINF:-1,RECORD MANAUS HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4981
+#EXTINF:-1,RECORD MANAUS SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4982
+#EXTINF:-1,RECORD MINAS SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3833
+#EXTINF:-1,RECORD MINAS HD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7351
+#EXTINF:-1,RECORD TV CIDADE CEARA FHD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7481
+#EXTINF:-1,REDE CNT LONDRINA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7399
+#EXTINF:-1,REDE CNT MANAUS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7400
+#EXTINF:-1,REDE CNT RIO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7401
+#EXTINF:-1,REDE CNT CAXIAS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7402
+#EXTINF:-1,REDE CNT SALVADOR
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7403
+#EXTINF:-1,REDE CNT BRASILIA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7404
+#EXTINF:-1,REDE CNT CUIÁBÁ
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7405
+#EXTINF:-1,RECORD RIO FHD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7045
+#EXTINF:-1,RECORD RIO HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4987
+#EXTINF:-1,RECORD RIO SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3832
+#EXTINF:-1,RECORD RS HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4989
+#EXTINF:-1,RECORD RS SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3831
+#EXTINF:-1,RECORD SP FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4893
+#EXTINF:-1,RECORD SP FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4813
+#EXTINF:-1,RECORD SP HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3836
+#EXTINF:-1,RECORD SP SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3835
+#EXTINF:-1,RECORD NEWS FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3838
+#EXTINF:-1,RECORD NEWS SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3837
+#EXTINF:-1,REDE BRASIL HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4966
+#EXTINF:-1,REDE CNT SP [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3343
+#EXTINF:-1,REDE CNT CURITIBA HD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7044
+#EXTINF:-1,REDE GOSPEL FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6842
+#EXTINF:-1,REDE GOSPEL FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4856
+#EXTINF:-1,REDE GOSPEL HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4857
+#EXTINF:-1,REDE GOSPEL SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4858
+#EXTINF:-1,REDE TV ESPÍRITO SANTO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6882
+#EXTINF:-1,REDE TV TOCANTINS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6883
+#EXTINF:-1,REDE VIDA FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6843
+#EXTINF:-1,REDE VIDA FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4814
+#EXTINF:-1,REDE VIDA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3830
+#EXTINF:-1,REDE VIDA SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3829
+#EXTINF:-1,REDETV FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4894
+#EXTINF:-1,REDETV FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4815
+#EXTINF:-1,REDETV HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3828
+#EXTINF:-1,REDETV SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3827
+#EXTINF:-1,RIT TV FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4965
+#EXTINF:-1,RIT TV HD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7387
+#EXTINF:-1,RIT TV SD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7388
+#EXTINF:-1,SABOR & ARTE FHD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6987
+#EXTINF:-1,SABOR & ARTE HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6986
+#EXTINF:-1,SABOR & ARTE SD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6985
+#EXTINF:-1,SBT CENTRAL HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7349
+#EXTINF:-1,SBT RIBEIRÃO PRETO HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7350
+#EXTINF:-1,SBT TV JANGADEIRO -CEARA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7032
+#EXTINF:-1,SBT DIFUSORA SAO LUIZ DO MARANHAO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7033
+#EXTINF:-1,SBT BRASILIA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6885
+#EXTINF:-1,SBT INTERIOR
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6870
+#EXTINF:-1,SBT PARA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6877
+#EXTINF:-1,SBT REDE MASSA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6874
+#EXTINF:-1,SBT RIO HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7027
+#EXTINF:-1,SBT RIO FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7026
+#EXTINF:-1,SBT SAO LUIZ MA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6871
+#EXTINF:-1,SBT SCC
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6878
+#EXTINF:-1,SBT SERRA DOURADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6873
+#EXTINF:-1,SBT SP FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4895
+#EXTINF:-1,SBT SP FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4817
+#EXTINF:-1,SBT SP HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3824
+#EXTINF:-1,SBT SP SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3823
+#EXTINF:-1,SBT TV ARATU -BAHIA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6869
+#EXTINF:-1,SBT TV DIFUSORA CAXIAS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6881
+#EXTINF:-1,SBT TV JORNAL RECIFE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6875
+#EXTINF:-1,SBT VTV CAMPINAS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6880
+#EXTINF:-1,SBT VTV CAMPINAS HD (DIRECT)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6884
+#EXTINF:-1,SIC INTERNACIONAL FHD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7360
+#EXTINF:-1,SIC INTERNACIONAL HD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7361
+#EXTINF:-1,SIC INTERNACIONAL SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4963
+#EXTINF:-1,SPACE FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6785
+#EXTINF:-1,SPACE FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3814
+#EXTINF:-1,SPACE HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3813
+#EXTINF:-1,SPACE SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3812
+#EXTINF:-1,SPORTV 2 FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4897
+#EXTINF:-1,SPORTV 2 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4820
+#EXTINF:-1,SPORTV 2 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3809
+#EXTINF:-1,SPORTV 2 SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3808
+#EXTINF:-1,SPORTV 3 FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4898
+#EXTINF:-1,SPORTV 3 FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4821
+#EXTINF:-1,SPORTV 3 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3807
+#EXTINF:-1,SPORTV 3 SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3806
+#EXTINF:-1,SPORTV FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4899
+#EXTINF:-1,SPORTV FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4819
+#EXTINF:-1,SPORTV HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3811
+#EXTINF:-1,SPORTV SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3810
+#EXTINF:-1,STAR CHANNEL FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4921
+#EXTINF:-1,STAR CHANNEL FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3805
+#EXTINF:-1,STAR CHANNEL HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3804
+#EXTINF:-1,STAR CHANNEL SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3803
+#EXTINF:-1,STUDIO UNIVERSAL FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4900
+#EXTINF:-1,STUDIO UNIVERSAL FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4823
+#EXTINF:-1,STUDIO UNIVERSAL HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3794
+#EXTINF:-1,STUDIO UNIVERSAL SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3793
+#EXTINF:-1,USA FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6830
+#EXTINF:-1,USA FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3792
+#EXTINF:-1,USA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3791
+#EXTINF:-1,USA SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3790
+#EXTINF:-1,TNT NOVELAS FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6831
+#EXTINF:-1,TCM FHD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7352
+#EXTINF:-1,TCM HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3786
+#EXTINF:-1,TCM SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3785
+#EXTINF:-1,TELECINE ACTION FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4901
+#EXTINF:-1,TELECINE ACTION FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3784
+#EXTINF:-1,TELECINE ACTION HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3783
+#EXTINF:-1,TELECINE ACTION SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3782
+#EXTINF:-1,TELECINE CULT FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4902
+#EXTINF:-1,TELECINE CULT FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3781
+#EXTINF:-1,TELECINE CULT HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3780
+#EXTINF:-1,TELECINE CULT SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3779
+#EXTINF:-1,TELECINE FUN FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4903
+#EXTINF:-1,TELECINE FUN FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3778
+#EXTINF:-1,TELECINE FUN HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3777
+#EXTINF:-1,TELECINE FUN SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3776
+#EXTINF:-1,TELECINE PIPOCA FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4904
+#EXTINF:-1,TELECINE PIPOCA FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3775
+#EXTINF:-1,TELECINE PIPOCA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3774
+#EXTINF:-1,TELECINE PIPOCA SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3773
+#EXTINF:-1,TELECINE PREMIUM FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4905
+#EXTINF:-1,TELECINE PREMIUM FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3772
+#EXTINF:-1,TELECINE PREMIUM HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3771
+#EXTINF:-1,TELECINE PREMIUM SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3770
+#EXTINF:-1,TELECINE TOUCH FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4906
+#EXTINF:-1,TELECINE TOUCH FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3769
+#EXTINF:-1,TELECINE TOUCH HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3768
+#EXTINF:-1,TELECINE TOUCH SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3767
+#EXTINF:-1,TERRA VIVA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6775
+#EXTINF:-1,TERRA VIVA SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4962
+#EXTINF:-1,TLC FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6832
+#EXTINF:-1,TLC FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4824
+#EXTINF:-1,TLC HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3766
+#EXTINF:-1,TLC SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3765
+#EXTINF:-1,TNT FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4907
+#EXTINF:-1,TNT FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3764
+#EXTINF:-1,TNT HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3763
+#EXTINF:-1,TNT SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3762
+#EXTINF:-1,TNT SERIES FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4908
+#EXTINF:-1,TNT SÉRIES FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3759
+#EXTINF:-1,TNT SÉRIES HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3761
+#EXTINF:-1,TNT SÉRIES SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3760
+#EXTINF:-1,TOONCAST FHD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7372
+#EXTINF:-1,TOONCAST HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3758
+#EXTINF:-1,TOONCAST SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3757
+#EXTINF:-1,TRACE BRAZUCA FHD H265
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7344
+#EXTINF:-1,TRACE BRAZUCA FHD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7000
+#EXTINF:-1,TRACE BRAZUCA HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7001
+#EXTINF:-1,TRACE BRAZUCA SD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7002
+#EXTINF:-1,CBI FHD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7362
+#EXTINF:-1,CBI HD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7363
+#EXTINF:-1,CBI SD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7364
+#EXTINF:-1,TRAVEL BOX BRAZIL FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6833
+#EXTINF:-1,TRAVEL BOX BRAZIL HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6834
+#EXTINF:-1,TRAVEL BOX BRAZIL SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6835
+#EXTINF:-1,TRUTV SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4961
+#EXTINF:-1,TV APARECIDA FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6845
+#EXTINF:-1,TV APARECIDA FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4825
+#EXTINF:-1,TV APARECIDA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3756
+#EXTINF:-1,TV APARECIDA SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3755
+#EXTINF:-1,TV BRASIL FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3754
+#EXTINF:-1,TV BRASIL HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4826
+#EXTINF:-1,TV BRASIL SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4827
+#EXTINF:-1,TV CÂMARA FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4955
+#EXTINF:-1,TV CÂMARA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4954
+#EXTINF:-1,TV ESCOLA SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4953
+#EXTINF:-1,TV GUARULHOS HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3231
+#EXTINF:-1,TV JUSTIÇA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3753
+#EXTINF:-1,TV JUSTIÇA SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4952
+#EXTINF:-1,TV NOVO TEMPO FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4828
+#EXTINF:-1,TV NOVO TEMPO HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3752
+#EXTINF:-1,TV NOVO TEMPO SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4829
+#EXTINF:-1,TV PAI ETERNO FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4841
+#EXTINF:-1,TV PAI ETERNO HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4842
+#EXTINF:-1,TV PAI ETERNO SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4843
+#EXTINF:-1,TV RATIMBUM FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6846
+#EXTINF:-1,TV RATIMBUM FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4816
+#EXTINF:-1,TV RATIMBUM HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3826
+#EXTINF:-1,TV RATIMBUM SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3825
+#EXTINF:-1,TV SENADO HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3750
+#EXTINF:-1,TV SENADO FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4959
+#EXTINF:-1,PLAYTV FHD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7374
+#EXTINF:-1,PLAYTV HD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7375
+#EXTINF:-1,PLAYTV SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4958
+#EXTINF:-1,TV5 MONDE HD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6996
+#EXTINF:-1,TV5 MONDE SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4957
+#EXTINF:-1,TVE FHD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7382
+#EXTINF:-1,TVE HD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7383
+#EXTINF:-1,TVE SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4956
+#EXTINF:-1,UNIVERSAL CHANNEL FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4909
+#EXTINF:-1,UNIVERSAL CHANNEL FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3749
+#EXTINF:-1,UNIVERSAL CHANNEL HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3748
+#EXTINF:-1,UNIVERSAL CHANNEL SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3747
+#EXTINF:-1,VENUS HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3746
+#EXTINF:-1,VENUS SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3745
+#EXTINF:-1,VIVA FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6847
+#EXTINF:-1,VIVA FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4831
+#EXTINF:-1,VIVA HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3741
+#EXTINF:-1,VIVA SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3740
+#EXTINF:-1,WARNER CHANNEL FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4910
+#EXTINF:-1,WARNER CHANNEL FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3737
+#EXTINF:-1,WARNER CHANNEL HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3739
+#EXTINF:-1,WARNER CHANNEL SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3738
+#EXTINF:-1,ZOOMOO FHD H265 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6848
+#EXTINF:-1,ZOOMOO FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4832
+#EXTINF:-1,ZOOMOO HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3736
+#EXTINF:-1,ZOOMOO SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3735
+#EXTINF:-1,24H-101 DALMATAS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5863
+#EXTINF:-1,24H-5 ALGUMA COISA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5864
+#EXTINF:-1,24H-A BRUXINHA SABRINA TEMPORADA 1
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5865
+#EXTINF:-1,24H-A CASA DA RAVEN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5866
+#EXTINF:-1,24H-A CASA DO MICKEY MOUSE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5867
+#EXTINF:-1,24H-A CEGONHA DA PERNA FINA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5868
+#EXTINF:-1,24H-A COBRINHA AZUL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5869
+#EXTINF:-1,24H-A COISA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5870
+#EXTINF:-1,24H-A CORRIDA ESPECIAL DO ZE COLMEIA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5871
+#EXTINF:-1,24H-A FAMILIA ADDAMS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5872
+#EXTINF:-1,24H-A FAMILIA DRACULA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5873
+#EXTINF:-1,24H-A FEITICEIRA FACEIRA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5874
+#EXTINF:-1,24H-A FORMIGA ATOMICA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5875
+#EXTINF:-1,24H-A FORMIGA E O TAMANDUA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5876
+#EXTINF:-1,24H-A GUARDA DO LEAO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5877
+#EXTINF:-1,24H-A MANSAO FOSTER PARA AMIGOS IMAGINARIOS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5878
+#EXTINF:-1,24H-A MUMIA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5879
+#EXTINF:-1,24H-A NOVA ESCOLA DO IMPERADOR
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5880
+#EXTINF:-1,24H-A PEQUENA SEREIA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5881
+#EXTINF:-1,24H-A TURMA  DO ARCHIE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5882
+#EXTINF:-1,24H-A TURMA DO ABOBRINHA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5883
+#EXTINF:-1,24H-A TURMA DO CHARLIE BROWN E SNOOPY
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5884
+#EXTINF:-1,24H-A TURMA DO PATETA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5885
+#EXTINF:-1,24H-A VACA E O FRANGO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5886
+#EXTINF:-1,24H-A VIDA E AS AVENTURAS DE JUNIPER
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5887
+#EXTINF:-1,24H-A VIDA MODERNA DE ROCKO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5888
+#EXTINF:-1,24H-ACAMPAMENTO DO LAZLO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5889
+#EXTINF:-1,24H-ACAMPAMENTO LAKEBOTTOM
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5890
+#EXTINF:-1,24H-AEON FLUX
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5891
+#EXTINF:-1,24H-ALADDIN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5892
+#EXTINF:-1,24H-ALF O ETEIMOSO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5893
+#EXTINF:-1,24H-ANDY PANDA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5894
+#EXTINF:-1,24H-ANIMANIACS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5895
+#EXTINF:-1,24H-ANTIGO TESTAMENTO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5896
+#EXTINF:-1,24H-AS AVENTURAS DE  TINTIN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5897
+#EXTINF:-1,24H-AS AVENTURAS DE BOB ESPONJA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5898
+#EXTINF:-1,24H-AS AVENTURAS DE JACKIE CHAN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5899
+#EXTINF:-1,24H-AS AVENTURAS DE SONIC
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5900
+#EXTINF:-1,24H-AS AVENTURAS DO URSINHO PUFF
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5901
+#EXTINF:-1,24H-AS MENINAS SUPER PODEROSAS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5902
+#EXTINF:-1,24H-AS TARTARUGAS NINJAS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5903
+#EXTINF:-1,24H-AS TERRIVEIS AVENTURAS DE BILLY E MANDY 24H
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5904
+#EXTINF:-1,24H-AS TRAPALHADAS DE FLAPJACK
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5905
+#EXTINF:-1,24H-AS TRIGEMEAS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5906
+#EXTINF:-1,24H-AS VISOES DE RAVEN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5907
+#EXTINF:-1,24H-AVATAR
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5908
+#EXTINF:-1,24H-BABY LOONEY TUNES
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5909
+#EXTINF:-1,24H-BACKYARDIGANS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5910
+#EXTINF:-1,24H-BAKUGAN BATTLE BRAWLERS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5911
+#EXTINF:-1,24H-BANAAS DE PIJAMA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5912
+#EXTINF:-1,24H-BARNEY E SEUS AMIGOS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5913
+#EXTINF:-1,24H-BATES MOTEL S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5914
+#EXTINF:-1,24H-BATES MOTEL S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5915
+#EXTINF:-1,24H-BATES MOTEL S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5916
+#EXTINF:-1,24H-BATES MOTEL S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5917
+#EXTINF:-1,24H-BATES MOTEL S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5918
+#EXTINF:-1,24H-BATFNK
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5919
+#EXTINF:-1,24H-BATMAN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5920
+#EXTINF:-1,24H-BATTLE FORCE  5
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5921
+#EXTINF:-1,24H-BEAVIS A BUTT HEAD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5922
+#EXTINF:-1,24H-BEN 10 OMNIVERSE S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5923
+#EXTINF:-1,24H-BEN 10 OMNIVERSE S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5924
+#EXTINF:-1,24H-BEN 10 OMNIVERSE S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5925
+#EXTINF:-1,24H-BEN 10 OMNIVERSE S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5926
+#EXTINF:-1,24H-BETTY ATOMICA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5927
+#EXTINF:-1,24H-BIBO PAI E  BOB FILHO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5928
+#EXTINF:-1,24H-BICUDO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5929
+#EXTINF:-1,24H-BLAYBLADE S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5930
+#EXTINF:-1,24H-BLAYBLADE S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5931
+#EXTINF:-1,24H-BLAYBLADE S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5932
+#EXTINF:-1,24H-BLAYBLADE S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5933
+#EXTINF:-1,24H-BOB ESPONJA S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5934
+#EXTINF:-1,24H-BOB ESPONJA S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5935
+#EXTINF:-1,24H-BOB ESPONJA S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5936
+#EXTINF:-1,24H-BOB ESPONJA S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5937
+#EXTINF:-1,24H-BOB ESPONJA S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5938
+#EXTINF:-1,24H-BOB ESPONJA S06
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5939
+#EXTINF:-1,24H-BOB ESPONJA S07
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5940
+#EXTINF:-1,24H-BOB ESPONJA S08
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5941
+#EXTINF:-1,24H-BOB ESPONJA S09
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5942
+#EXTINF:-1,24H-BOB ESPONJA S10
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5943
+#EXTINF:-1,24H-BOB ZOOM
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5944
+#EXTINF:-1,24H-BONECO ATOMICO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5945
+#EXTINF:-1,24H-BOOM
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5946
+#EXTINF:-1,24H-BRAVESTAR
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5947
+#EXTINF:-1,24H-BREAKING BAD S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5948
+#EXTINF:-1,24H-BREAKING BAD S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5949
+#EXTINF:-1,24H-BREAKING BAD S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5950
+#EXTINF:-1,24H-BREAKING BAD S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5951
+#EXTINF:-1,24H-BREAKING BAD S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5952
+#EXTINF:-1,24H-BUCKY JIBAKU KUN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5953
+#EXTINF:-1,24H-BUZZ LIGHTYEAR
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5954
+#EXTINF:-1,24H-CADILACS E DINOSSAUROS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5955
+#EXTINF:-1,24H-CAEZINHOS DO CANIL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5956
+#EXTINF:-1,24H-CAMERAS ESCONDIDAS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5957
+#EXTINF:-1,24H-CAMPEOES  DO SENDOKAI
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5958
+#EXTINF:-1,24H-CAOFIDENCIAL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5959
+#EXTINF:-1,24H-CAPIT CAVERNA 24H
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5961
+#EXTINF:-1,24H-CAPITAO PLANETA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5960
+#EXTINF:-1,24H-CARANGOS E MOTOCAS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5962
+#EXTINF:-1,24H-CARD CAPTOR SAKURA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5963
+#EXTINF:-1,24H-CARETA E MUTRETA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5964
+#EXTINF:-1,24H-CARMEN SANDIEGO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5965
+#EXTINF:-1,24H-CAROLE E TUESDAY
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5966
+#EXTINF:-1,24H-CARS TOON  AS GRANDES HISTORIAS DO MATE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5967
+#EXTINF:-1,24H-CASTELO RA TI BUM
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5968
+#EXTINF:-1,24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 1 TEMPORADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5969
+#EXTINF:-1,24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 2 TEMPORADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5970
+#EXTINF:-1,24H-CAVALEIROS DO ZODIACO  SAGA DE ASGARD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5971
+#EXTINF:-1,24H-CAVALEIROS DO ZODIACO  SAGA DE POSEIDON
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5972
+#EXTINF:-1,24H-CAVALEIROS DO ZODIACO SAGA TORNEIO GALACTICO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5973
+#EXTINF:-1,24H-CAVERNA DO DRAG
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5974
+#EXTINF:-1,24H-CHANPOLIN COLORADO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5975
+#EXTINF:-1,24H-CHAPOLIN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5976
+#EXTINF:-1,24H-CHARLIE CHAN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5977
+#EXTINF:-1,24H-CHAVES
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5978
+#EXTINF:-1,24H-CHAVES  DESENHO SEGUNDA TEMPORADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5979
+#EXTINF:-1,24H-CHAVES CLASSICO S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5980
+#EXTINF:-1,24H-CHAVES CLASSICO S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5981
+#EXTINF:-1,24H-CHAVES CLASSICO S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5982
+#EXTINF:-1,24H-CHAVES CLASSICO S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5983
+#EXTINF:-1,24H-CHAVES CLASSICO S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5984
+#EXTINF:-1,24H-CHAVES CLASSICO S06
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5985
+#EXTINF:-1,24H-CHAVES CLASSICO S07
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5986
+#EXTINF:-1,24H-CHAVES DESENHO PRIMEIRA TEMPORADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5987
+#EXTINF:-1,24H-CHAVES DESENHO QUARTA TEMPORADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5988
+#EXTINF:-1,24H-CHAVES DESENHO TERCEIRA TEMPORADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5989
+#EXTINF:-1,24H-CHOWDER
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5990
+#EXTINF:-1,24H-CIENCIA TODO DIA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5991
+#EXTINF:-1,24H-CLARENCIO O OTIMISTA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5992
+#EXTINF:-1,24H-CLASSICOS DA DISNEY
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5993
+#EXTINF:-1,24H-CLIFFORD O GIGANTE CAO VERMELHO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5994
+#EXTINF:-1,24H-CLUB DE CARROS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5995
+#EXTINF:-1,24H-COELHO RICOCHETE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5996
+#EXTINF:-1,24H-CORAGEM O CAO COVARDE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5997
+#EXTINF:-1,24H-CORRIDA MALUCA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5998
+#EXTINF:-1,24H-CURTAS METRAGENS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5999
+#EXTINF:-1,24H-CYBERCHASE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6000
+#EXTINF:-1,24H-DANNY PHANTOM
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6001
+#EXTINF:-1,24H-DC COMICS-01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6002
+#EXTINF:-1,24H-DC COMICS-02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6003
+#EXTINF:-1,24H-DC COMICS-ARROW S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6004
+#EXTINF:-1,24H-DC COMICS-ARROW S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6005
+#EXTINF:-1,24H-DC COMICS-ARROW S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6006
+#EXTINF:-1,24H-DC COMICS-ARROW S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6007
+#EXTINF:-1,24H-DC COMICS-ARROW S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6008
+#EXTINF:-1,24H-DC COMICS-ARROW S06
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6009
+#EXTINF:-1,24H-DC COMICS-ARROW S07
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6010
+#EXTINF:-1,24H-DC COMICS-CRONOLOGIA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6011
+#EXTINF:-1,24H-DC COMICS-DUOLOGIA MULHER MARAVILHA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6012
+#EXTINF:-1,24H-DC COMICS-ESQUADRAO SUICIDA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6013
+#EXTINF:-1,24H-DC COMICS-LEGENDS OF TOMORROW S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6014
+#EXTINF:-1,24H-DC COMICS-LEGENDS OF TOMORROW S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6015
+#EXTINF:-1,24H-DC COMICS-LEGENDS OF TOMORROW S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6016
+#EXTINF:-1,24H-DC COMICS-LEGENDS OF TOMORROW S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6017
+#EXTINF:-1,24H-DC COMICS-LEGENDS OF TOMORROW S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6018
+#EXTINF:-1,24H-DC COMICS-LIGA DA JUSTICA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6019
+#EXTINF:-1,24H-DC COMICS-PENTALOGIA BATMAN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6020
+#EXTINF:-1,24H-DC COMICS-PENTALOGIA SUPERMAN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6021
+#EXTINF:-1,24H-DC COMICS-RAIO NEGRO S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6022
+#EXTINF:-1,24H-DC COMICS-RAIO NEGRO S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6023
+#EXTINF:-1,24H-DC COMICS-RAIO NEGRO S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6024
+#EXTINF:-1,24H-DC COMICS-THE FLASH S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6025
+#EXTINF:-1,24H-DC COMICS-THE FLASH S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6026
+#EXTINF:-1,24H-DC COMICS-THE FLASH S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6027
+#EXTINF:-1,24H-DC COMICS-THE FLASH S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6028
+#EXTINF:-1,24H-DC COMICS-THE FLASH S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6029
+#EXTINF:-1,24H-DC COMICS-THE FLASH S06
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6030
+#EXTINF:-1,24H-DC COMICS-THE FLASH S07
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6031
+#EXTINF:-1,24H-DC COMICS-TITANS S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6032
+#EXTINF:-1,24H-DC COMICS-TITANS S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6033
+#EXTINF:-1,24H-DC COMICS-TRILOGIA BATMAN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6034
+#EXTINF:-1,24H-DE FERIAS COM O EX S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6035
+#EXTINF:-1,24H-DE VOLTA PARA O FUTURO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6036
+#EXTINF:-1,24H-DEBY E LOID
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6037
+#EXTINF:-1,24H-DEFENSORES DA LEI
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6038
+#EXTINF:-1,24H-DELVIN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6039
+#EXTINF:-1,24H-DENNIS THE MENACE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6040
+#EXTINF:-1,24H-DESENHOS BIBLICOS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6041
+#EXTINF:-1,24H-DIGIMON S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6042
+#EXTINF:-1,24H-DIGIMON S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6043
+#EXTINF:-1,24H-DIGMON S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6044
+#EXTINF:-1,24H-DIGMON S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6045
+#EXTINF:-1,24H-DIGMON S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6046
+#EXTINF:-1,24H-DINO BOY E O VALE PERDIDO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6047
+#EXTINF:-1,24H-DINOSSAURO REI
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6048
+#EXTINF:-1,24H-DOIS HOMENS E MEIO S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6049
+#EXTINF:-1,24H-DOIS HOMENS E MEIO S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6050
+#EXTINF:-1,24H-DOIS HOMENS E MEIO S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6051
+#EXTINF:-1,24H-DOIS HOMENS E MEIO S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6052
+#EXTINF:-1,24H-DOIS HOMENS E MEIO S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6053
+#EXTINF:-1,24H-DOIS HOMENS E MEIO S06
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6054
+#EXTINF:-1,24H-DOIS HOMENS E MEIO S07
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6055
+#EXTINF:-1,24H-DOIS HOMENS E MEIO S08
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6056
+#EXTINF:-1,24H-DOIS HOMENS E MEIO S09
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6057
+#EXTINF:-1,24H-DOIS HOMENS E MEIO S10
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6058
+#EXTINF:-1,24H-DOIS HOMENS E MEIO S11
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6059
+#EXTINF:-1,24H-DOIS HOMENS E MEIO S12
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6060
+#EXTINF:-1,24H-DON DRACULA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6061
+#EXTINF:-1,24H-DORA A AVENTUREIRA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6062
+#EXTINF:-1,24H-DOUG
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6063
+#EXTINF:-1,24H-DR CALCA DIMENSIONAL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6064
+#EXTINF:-1,24H-DRAGON BALL CLASSICO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6065
+#EXTINF:-1,24H-DRAGON BALL GT
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6066
+#EXTINF:-1,24H-DRAGON BALL SUPER DEUS DA DESTRUICAO BILLS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6640
+#EXTINF:-1,24H-DRAGON BALL SUPER FREEZA DOURADO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6641
+#EXTINF:-1,24H-DRAGON BALL SUPER SOBREVIVENCIA DO UNIVERSO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6647
+#EXTINF:-1,24H-DRAGON BALL SUPER TRUNKS DO FUTURO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6649
+#EXTINF:-1,24H-DRAGON BALL SUPER UNIVERSO 6
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6650
+#EXTINF:-1,24H-DRAGON BALL Z SAGA DE MAJIN BOO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6642
+#EXTINF:-1,24H-DRAGON BALL Z SAGA DO GARLIC JR
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6643
+#EXTINF:-1,24H-DRAGON BALL Z SAGA DOS ANDROIDES
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6644
+#EXTINF:-1,24H-DRAGON BALL Z SAGA DOS SAIYAJIN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6645
+#EXTINF:-1,24H-DRAGON BALL Z SAGA FREEZA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6646
+#EXTINF:-1,24H-DRAGON BALL Z TORNEIO DE OUTRO MUNDO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6648
+#EXTINF:-1,24H-DRAKE E JOSH S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6067
+#EXTINF:-1,24H-DRAKE E JOSH S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6068
+#EXTINF:-1,24H-DRAKE E JOSH S03 24H
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6069
+#EXTINF:-1,24H-DRAKE E JOSH S04 24H
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6070
+#EXTINF:-1,24H-DRAMATURGIA PANICO NA TV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6071
+#EXTINF:-1,24H-DROPPY
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6072
+#EXTINF:-1,24H-DUCK DODGERS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6073
+#EXTINF:-1,24H-DUCKTALES OS CADORES DE AVENTURAS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6074
+#EXTINF:-1,24H-DUDLEY DO RIGHT OF THE MOUNTIES
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6075
+#EXTINF:-1,24H-DUELO XAOLIN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6076
+#EXTINF:-1,24H-E MAGIA CHARLIE BROWN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6077
+#EXTINF:-1,24H-E O LOBO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6078
+#EXTINF:-1,24H-EDGAR E ELLEN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6079
+#EXTINF:-1,24H-EDU PRIMITIVO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6080
+#EXTINF:-1,24H-EEK THE CAT
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6081
+#EXTINF:-1,24H-EL CHAPO S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6082
+#EXTINF:-1,24H-EL CHAPO S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6083
+#EXTINF:-1,24H-EL CHAPO S023
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6084
+#EXTINF:-1,24H-ENCRENCA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6085
+#EXTINF:-1,24H-ESCOLINHA DO PROFESSOR RAIMUNDO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6086
+#EXTINF:-1,24H-ESQUADRAO DE MARTE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6087
+#EXTINF:-1,24H-ESQUADRAO DO TEMPO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6088
+#EXTINF:-1,24H-ESQUILO SEM GRILO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6089
+#EXTINF:-1,24H-EU A PATROA E AS CRIANCAS S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6090
+#EXTINF:-1,24H-EU A PATROA E AS CRIANCAS S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6091
+#EXTINF:-1,24H-EU A PATROA E AS CRIANCAS S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6092
+#EXTINF:-1,24H-EU A PATROA E AS CRIANCAS S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6093
+#EXTINF:-1,24H-EU A PATROA E AS CRIANCAS S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6094
+#EXTINF:-1,24H-EU SOU O MAXIMO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6095
+#EXTINF:-1,24H-FABULAS DA DISNEY
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6096
+#EXTINF:-1,24H-FAISCA E FUMACA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6097
+#EXTINF:-1,24H-FAMILIA DINOSSAURO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6098
+#EXTINF:-1,24H-FAMILIA URSO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6099
+#EXTINF:-1,24H-FANTASMINHA LEGAL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6100
+#EXTINF:-1,24H-FATOS DESCONHECIDOS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6101
+#EXTINF:-1,24H-FATOS INSANOS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6102
+#EXTINF:-1,24H-FILA DE PIADAS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6103
+#EXTINF:-1,24H-FITDANCE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6104
+#EXTINF:-1,24H-FLASH GORDON
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6105
+#EXTINF:-1,24H-FLY O PEQUENO GUERREIRO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6106
+#EXTINF:-1,24H-FRANKENSTEIN JUNIOR
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6107
+#EXTINF:-1,24H-FREAKAZOID
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6108
+#EXTINF:-1,24H-FRIENDS S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6109
+#EXTINF:-1,24H-FRIENDS S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6110
+#EXTINF:-1,24H-FRIENDS S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6111
+#EXTINF:-1,24H-FRIENDS S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6112
+#EXTINF:-1,24H-FRIENDS S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6113
+#EXTINF:-1,24H-FRIENDS S06
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6114
+#EXTINF:-1,24H-FRIENDS S07
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6115
+#EXTINF:-1,24H-FRIENDS S08
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6116
+#EXTINF:-1,24H-FRIENDS S09
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6117
+#EXTINF:-1,24H-FRIENDS S10
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6118
+#EXTINF:-1,24H-FUTURAMA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6119
+#EXTINF:-1,24H-GALAXY RANGER
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6120
+#EXTINF:-1,24H-GALAXY TRIO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6121
+#EXTINF:-1,24H-GALINHA PINTADINHA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6122
+#EXTINF:-1,24H-GAME OF THRONES S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6123
+#EXTINF:-1,24H-GAME OF THRONES S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6124
+#EXTINF:-1,24H-GAME OF THRONES S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6125
+#EXTINF:-1,24H-GAME OF THRONES S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6126
+#EXTINF:-1,24H-GAME OF THRONES S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6127
+#EXTINF:-1,24H-GAME OF THRONES S06
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6128
+#EXTINF:-1,24H-GAME OF THRONES S07
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6129
+#EXTINF:-1,24H-GAME OF THRONES S08
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6130
+#EXTINF:-1,24H-GARFIELD E SEUS AMIGOS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6131
+#EXTINF:-1,24H-GASPARZIHO E SEUS AMIGOS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6132
+#EXTINF:-1,24H-GASPARZINHO O FANTASMA ESPACIAL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6133
+#EXTINF:-1,24H-GATO DE BOTAS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6134
+#EXTINF:-1,24H-GATO FELIX
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6135
+#EXTINF:-1,24H-GENERETOR REX
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6136
+#EXTINF:-1,24H-GERSON ALBUQUERQUE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6137
+#EXTINF:-1,24H-GO DIEGO GO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6138
+#EXTINF:-1,24H-GUERREIRAS MAGICAS DE RAYEARTH
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6139
+#EXTINF:-1,24H-GUERREIROS MISTICOS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6140
+#EXTINF:-1,24H-GUNDAM WING
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6141
+#EXTINF:-1,24H-HANTARO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6142
+#EXTINF:-1,24H-HARVEY O ADVOGADO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6143
+#EXTINF:-1,24H-HE-MAN 24H
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6144
+#EXTINF:-1,24H-HELLO KITTY
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6145
+#EXTINF:-1,24H-HERCULES
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6146
+#EXTINF:-1,24H-HERCULOIDES
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6147
+#EXTINF:-1,24H-HEY ARNOLD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6148
+#EXTINF:-1,24H-HEY ARNOLD S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6149
+#EXTINF:-1,24H-HEY ARNOLD S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6150
+#EXTINF:-1,24H-HEY ARNOLD S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6151
+#EXTINF:-1,24H-HEY ARNOLD S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6152
+#EXTINF:-1,24H-HEY ARNOLD S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6153
+#EXTINF:-1,24H-HICKORY DICKORY DOCK
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6154
+#EXTINF:-1,24H-HILDA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6155
+#EXTINF:-1,24H-HISTORINHAS DE DRAGOES
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6156
+#EXTINF:-1,24H-HO HO OLIMPICS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6157
+#EXTINF:-1,24H-HOMEM ARANHA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6158
+#EXTINF:-1,24H-HOMEM DE FERRO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6159
+#EXTINF:-1,24H-HOMEM PASSARO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6160
+#EXTINF:-1,24H-HOMEN ARANHA ACAO SEM LIMITES S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6161
+#EXTINF:-1,24H-HOMEN PASSARO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6162
+#EXTINF:-1,24H-HONG KONG FU
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6163
+#EXTINF:-1,24H-ICARLY S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6164
+#EXTINF:-1,24H-ICARLY S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6165
+#EXTINF:-1,24H-ICARLY S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6166
+#EXTINF:-1,24H-ICARLY S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6167
+#EXTINF:-1,24H-ICARLY S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6168
+#EXTINF:-1,24H-ICARLY S06
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6169
+#EXTINF:-1,24H-ICARLY S07
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6170
+#EXTINF:-1,24H-ILHA DOS DESAFIOS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6171
+#EXTINF:-1,24H-INCRIVEL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6172
+#EXTINF:-1,24H-INCRIVEL HULK
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6173
+#EXTINF:-1,24H-INCRIVEL MUNDO DE GUMBAL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6174
+#EXTINF:-1,24H-INVASOR ZIM
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6175
+#EXTINF:-1,24H-IRMAO DO JOREL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6176
+#EXTINF:-1,24H-JAKERS! AS AVENTURAS DE PIGGLEY WINKS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6177
+#EXTINF:-1,24H-JAMBO O RUIVAO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6178
+#EXTINF:-1,24H-JASPION
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6179
+#EXTINF:-1,24H-JEAM E AS HOLOGRAMAS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6180
+#EXTINF:-1,24H-JOAO GRANDAO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6181
+#EXTINF:-1,24H-JOHN LEITAO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6182
+#EXTINF:-1,24H-JOHNNY BRAVO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6183
+#EXTINF:-1,24H-JONNY QUEST
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6184
+#EXTINF:-1,24H-JOSIE E AS GATINHAS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6185
+#EXTINF:-1,24H-JUBEI CHAN THE NINJA GIRL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6186
+#EXTINF:-1,24H-KAMEN RIDER  BLACK
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6187
+#EXTINF:-1,24H-KENAN E KEL 1 TEMPORADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6188
+#EXTINF:-1,24H-KENAN E KEL 2 TEMPORADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6189
+#EXTINF:-1,24H-KENAN E KEL 3 TEMPORADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6190
+#EXTINF:-1,24H-KICK BUTTOWSKI UM PROJETO DE DUBL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6191
+#EXTINF:-1,24H-KIM POSSIBLE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6192
+#EXTINF:-1,24H-KIMBA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6193
+#EXTINF:-1,24H-KND A TURMA DO BAIRRO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6194
+#EXTINF:-1,24H-KUNG FU PANDA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6195
+#EXTINF:-1,24H-KONG REI DOS MACACOS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6196
+#EXTINF:-1,24H-LABORATORIO DE DEXTER
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6197
+#EXTINF:-1,24H-LARGASDOS E PELADOS S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6198
+#EXTINF:-1,24H-LARGASDOS E PELADOS S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6199
+#EXTINF:-1,24H-LARGASDOS E PELADOS S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6200
+#EXTINF:-1,24H-LARGASDOS E PELADOS S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6201
+#EXTINF:-1,24H-LARVA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6202
+#EXTINF:-1,24H-LAZYTOWN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6203
+#EXTINF:-1,24H-LEAO DA MONTANHA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6204
+#EXTINF:-1,24H-LEO O CAMINHAO CURIOSO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6205
+#EXTINF:-1,24H-LIGA DA JUSTI
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6206
+#EXTINF:-1,24H-LIGEIRINHO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6207
+#EXTINF:-1,24H-LIL BUSH
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6208
+#EXTINF:-1,24H-LILO E STITCH
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6209
+#EXTINF:-1,24H-LIPPY E HARDY
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6210
+#EXTINF:-1,24H-LOONEY TUNES
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6211
+#EXTINF:-1,24H-LULA LELE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6212
+#EXTINF:-1,24H-LULUZINHA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6213
+#EXTINF:-1,24H-LUZINHA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6214
+#EXTINF:-1,24H-MADELINE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6215
+#EXTINF:-1,24H-MAGUILA O GORILA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6216
+#EXTINF:-1,24H-MANDA CHUVA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6217
+#EXTINF:-1,24H-MANUAL DO  NED
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6218
+#EXTINF:-1,24H-MAQUINAS VOADORAS DICK VIGARISTA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6219
+#EXTINF:-1,24H-MARCELINO PAO E VINHO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6220
+#EXTINF:-1,24H-MARSUPILAMUS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6221
+#EXTINF:-1,24H-MARTIN MYSTERY
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6222
+#EXTINF:-1,24H-MARVEL -ORDEM CRONOLOGICA 01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6223
+#EXTINF:-1,24H-MARVEL DESENHO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6224
+#EXTINF:-1,24H-MARVEL- AGENTS DA S.H.I.E.L.D S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6225
+#EXTINF:-1,24H-MARVEL- LUKE CAGE S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6226
+#EXTINF:-1,24H-MARVEL-AGENTS DA S.H.I.E.L.D S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6227
+#EXTINF:-1,24H-MARVEL-AGENTS DA S.H.I.E.L.D S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6228
+#EXTINF:-1,24H-MARVEL-AGENTS DA S.H.I.E.L.D S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6229
+#EXTINF:-1,24H-MARVEL-AGENTS DA S.H.I.E.L.D S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6230
+#EXTINF:-1,24H-MARVEL-AGENTS DA S.H.I.E.L.D S06
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6231
+#EXTINF:-1,24H-MARVEL-CAPITAO AMERICA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6232
+#EXTINF:-1,24H-MARVEL-CLASSICOS DA MARVEL 1
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6233
+#EXTINF:-1,24H-MARVEL-CLASSICOS DA MARVEL 2
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6234
+#EXTINF:-1,24H-MARVEL-DEFENSORES S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6235
+#EXTINF:-1,24H-MARVEL-DEMOLIDOR S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6236
+#EXTINF:-1,24H-MARVEL-DEMOLIDOR S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6237
+#EXTINF:-1,24H-MARVEL-DEMOLIDOR S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6238
+#EXTINF:-1,24H-MARVEL-DUOLOGIA HOMEM ARANHA E ESPETACULAR HOMEM ARANHA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6239
+#EXTINF:-1,24H-MARVEL-FALCAO E SOLDADO INVERNAL S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6240
+#EXTINF:-1,24H-MARVEL-FILMES 1
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6241
+#EXTINF:-1,24H-MARVEL-FILMES 2
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6242
+#EXTINF:-1,24H-MARVEL-HOMEM DE FERRO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6243
+#EXTINF:-1,24H-MARVEL-INUMANOS S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6244
+#EXTINF:-1,24H-MARVEL-JESSICA JONES S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6245
+#EXTINF:-1,24H-MARVEL-JESSICA JONES S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6246
+#EXTINF:-1,24H-MARVEL-JESSICA JONES S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6247
+#EXTINF:-1,24H-MARVEL-JUSTICEIRO  S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6248
+#EXTINF:-1,24H-MARVEL-JUSTICEIRO S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6249
+#EXTINF:-1,24H-MARVEL-LEGIAO S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6250
+#EXTINF:-1,24H-MARVEL-LEGIAO S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6251
+#EXTINF:-1,24H-MARVEL-LENDAS DA MARVEL S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6252
+#EXTINF:-1,24H-MARVEL-LUKE CAGE S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6253
+#EXTINF:-1,24H-MARVEL-MANDALORIANO S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6254
+#EXTINF:-1,24H-MARVEL-O LEGADO DE JUPITER S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6255
+#EXTINF:-1,24H-MARVEL-O MANDALORIANO S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6256
+#EXTINF:-1,24H-MARVEL-ORDEM CRONOLOGICA 02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6257
+#EXTINF:-1,24H-MARVEL-PUNHO DE FERRO S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6258
+#EXTINF:-1,24H-MARVEL-PUNHO DE FERRO S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6259
+#EXTINF:-1,24H-MARVEL-QUARTETO FANTASTICO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6260
+#EXTINF:-1,24H-MARVEL-THE GIFTED S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6261
+#EXTINF:-1,24H-MARVEL-THOR
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6262
+#EXTINF:-1,24H-MARVEL-TRILOGIA HOMEM-ARANHA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6263
+#EXTINF:-1,24H-MARVEL-VINGADORES
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6264
+#EXTINF:-1,24H-MARVEL-WANDAVISION S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6265
+#EXTINF:-1,24H-MARVEL-X-MEN 1
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6266
+#EXTINF:-1,24H-MARVEL-X-MEN 2
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6267
+#EXTINF:-1,24H-MASTER TRASH E PANICO CHEF
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6268
+#EXTINF:-1,24H-MATRACA E MATRICA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6269
+#EXTINF:-1,24H-MECANIMAIS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6270
+#EXTINF:-1,24H-MEDABOT
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6271
+#EXTINF:-1,24H-MEGAMAN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6272
+#EXTINF:-1,24H-MEGAS XLR
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6273
+#EXTINF:-1,24H-MELHORES VIDEOS DO MUNDO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6274
+#EXTINF:-1,24H-MEU MELHOR AMIGO E UM MACACO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6275
+#EXTINF:-1,24H-MEU TITIO AVO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6276
+#EXTINF:-1,24H-MIB HOMENS DE PRETO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6277
+#EXTINF:-1,24H-MICKEY E DONALD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6278
+#EXTINF:-1,24H-MIGTHOR
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6279
+#EXTINF:-1,24H-MINI FILMES
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6280
+#EXTINF:-1,24H-MINI POLEGAR
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6281
+#EXTINF:-1,24H-MIRACULOUS AS AVENTURAS DE LADYBUG
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6282
+#EXTINF:-1,24H-MISSION HILL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6283
+#EXTINF:-1,24H-MISTER MAGOO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6284
+#EXTINF:-1,24H-MIX REYNOLD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6285
+#EXTINF:-1,24H-MOBYDICK
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6286
+#EXTINF:-1,24H-MONSTER RANCHER
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6287
+#EXTINF:-1,24H-MORANGUINHO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6288
+#EXTINF:-1,24H-MORTAL KOMBAT
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6289
+#EXTINF:-1,24H-MOSQUETE MOSQUITO E MOSCADO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6290
+#EXTINF:-1,24H-MR BEANS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6291
+#EXTINF:-1,24H-MUCHA LUTA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6292
+#EXTINF:-1,24H-MUMIAS VIVAS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6293
+#EXTINF:-1,24H-MUNDO BITA E OS ANIMAIS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6294
+#EXTINF:-1,24H-MUSCULO TOTAL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6295
+#EXTINF:-1,24H-MUSICA ELETRONICA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6296
+#EXTINF:-1,24H-MUSICA FORRO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6297
+#EXTINF:-1,24H-MUSICAS FUNK
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6298
+#EXTINF:-1,24H-MUSICAS GOSPEL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6299
+#EXTINF:-1,24H-MUSICAS PAGODE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6300
+#EXTINF:-1,24H-MUSICAS POP
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6301
+#EXTINF:-1,24H-MUSICAS POP NACIONAL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6302
+#EXTINF:-1,24H-MUSICAS RAP
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6303
+#EXTINF:-1,24H-MUSICAS SERTANEJO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6304
+#EXTINF:-1,24H-MY LITTLE PONY
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6305
+#EXTINF:-1,24H-NA CORREIA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6306
+#EXTINF:-1,24H-NARCOS S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6307
+#EXTINF:-1,24H-NARCOS S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6308
+#EXTINF:-1,24H-NARCOS S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6309
+#EXTINF:-1,24H-NARUTO CLASSICO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6310
+#EXTINF:-1,24H-NARUTO CLASSICO S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6311
+#EXTINF:-1,24H-NARUTO CLASSICO S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6312
+#EXTINF:-1,24H-NARUTO CLASSICO S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6313
+#EXTINF:-1,24H-NARUTO CLASSICO S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6314
+#EXTINF:-1,24H-NARUTO CLASSICO S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6315
+#EXTINF:-1,24H-NARUTO CLASSICO S06
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6316
+#EXTINF:-1,24H-NARUTO CLASSICO S07
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6317
+#EXTINF:-1,24H-NARUTO CLASSICO S08
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6318
+#EXTINF:-1,24H-NARUTO CLASSICO S09
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6319
+#EXTINF:-1,24H-NATUREZA S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6320
+#EXTINF:-1,24H-NATUREZA S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6321
+#EXTINF:-1,24H-NATUREZA S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6322
+#EXTINF:-1,24H-NATUREZA S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6323
+#EXTINF:-1,24H-NEON GENESIS EVANGELION
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6324
+#EXTINF:-1,24H-NOSSA TURMA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6325
+#EXTINF:-1,24H-O CHEFINHO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6326
+#EXTINF:-1,24H-O FANTASMINHA  GALOPANTE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6327
+#EXTINF:-1,24H-O FANTASTICO MUNDO DE BOBBY
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6328
+#EXTINF:-1,24H-O INSPETOR
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6329
+#EXTINF:-1,24H-O MASKARA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6330
+#EXTINF:-1,24H-O MASKARA SERIE ANIMADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6331
+#EXTINF:-1,24H-O NOVO TESTAMENTO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6332
+#EXTINF:-1,24H-O ONIBUS MAGICO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6333
+#EXTINF:-1,24H-O PEQUENO PRINCIPE CLASSICO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6334
+#EXTINF:-1,24H-O PEQUENO SCOOBY DOO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6335
+#EXTINF:-1,24H-O PEQUENO URSO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6336
+#EXTINF:-1,24H-O PRINCIPE DRAGAO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6337
+#EXTINF:-1,24H-O QUE HA DE NOVO SCOOBYDOO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6338
+#EXTINF:-1,24H-O REI DO PEDA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6339
+#EXTINF:-1,24H-O SEGREDO ALEM DO JARDIM
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6340
+#EXTINF:-1,24H-O SHOW DO SCOOBY DOO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6341
+#EXTINF:-1,24H-O VIRA LATA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6342
+#EXTINF:-1,24H-O XODO DA VOVO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6343
+#EXTINF:-1,24H-OCEANO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6344
+#EXTINF:-1,24H-OGGY E AS BARATAS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6345
+#EXTINF:-1,24H-OS ANIMAIS  DO BOSQUE VINTENS 242 H
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6346
+#EXTINF:-1,24H-OS APUROS DE PENELOPE CHARMOSA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6347
+#EXTINF:-1,24H-OS BARBIXAS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6348
+#EXTINF:-1,24H-OS CASTORES PIRADOS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6349
+#EXTINF:-1,24H-OS FLINTSTONES
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6350
+#EXTINF:-1,24H-OS FLINTSTONES S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6351
+#EXTINF:-1,24H-OS FLINTSTONES S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6352
+#EXTINF:-1,24H-OS FLINTSTONES S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6353
+#EXTINF:-1,24H-OS FLINTSTONES S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6354
+#EXTINF:-1,24H-OS FLINTSTONES S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6355
+#EXTINF:-1,24H-OS FLINTSTONES S06
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6356
+#EXTINF:-1,24H-OS GARGULAS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6357
+#EXTINF:-1,24H-OS IMPOSSIVEIS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6358
+#EXTINF:-1,24H-OS JETSONS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6359
+#EXTINF:-1,24H-OS JORGES
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6360
+#EXTINF:-1,24H-OS JOVENS TITANS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6361
+#EXTINF:-1,24H-OS OBLONGS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6362
+#EXTINF:-1,24H-OS PADRINHOS MAGICOS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6363
+#EXTINF:-1,24H-OS PINGUINS DE MADAGASCAR
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6364
+#EXTINF:-1,24H-OS SETE MONSTRINHOS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6365
+#EXTINF:-1,24H-OS SIMPSONS S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6366
+#EXTINF:-1,24H-OS SIMPSONS S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6367
+#EXTINF:-1,24H-OS SIMPSONS S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6368
+#EXTINF:-1,24H-OS SIMPSONS S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6369
+#EXTINF:-1,24H-OS SIMPSONS S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6370
+#EXTINF:-1,24H-OS SIMPSONS S06
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6371
+#EXTINF:-1,24H-OS SIMPSONS S07
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6372
+#EXTINF:-1,24H-OS SIMPSONS S08
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6373
+#EXTINF:-1,24H-OS SIMPSONS S09
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6374
+#EXTINF:-1,24H-OS SIMPSONS S10
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6375
+#EXTINF:-1,24H-OS SIMPSONS S11
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6376
+#EXTINF:-1,24H-OS SIMPSONS S12
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6377
+#EXTINF:-1,24H-OS SIMPSONS S13
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6378
+#EXTINF:-1,24H-OS SIMPSONS S14
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6379
+#EXTINF:-1,24H-OS SIMPSONS S15
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6380
+#EXTINF:-1,24H-OS SIMPSONS S16
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6381
+#EXTINF:-1,24H-OS SIMPSONS S17
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6382
+#EXTINF:-1,24H-OS SIMPSONS S18
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6383
+#EXTINF:-1,24H-OS SIMPSONS S19
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6384
+#EXTINF:-1,24H-OS SIMPSONS S20
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6385
+#EXTINF:-1,24H-OS SIMPSONS S21
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6386
+#EXTINF:-1,24H-OS SIMPSONS S22
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6387
+#EXTINF:-1,24H-OS SIMPSONS S23
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6388
+#EXTINF:-1,24H-OS SIMPSONS S24
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6389
+#EXTINF:-1,24H-OS SIMPSONS S25
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6390
+#EXTINF:-1,24H-OS SIMPSONS S26
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6391
+#EXTINF:-1,24H-OS SIMPSONS S27
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6392
+#EXTINF:-1,24H-OS SIMPSONS S28
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6393
+#EXTINF:-1,24H-OS SUPER GLOBETROTTERS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6394
+#EXTINF:-1,24H-OS SUPER PATOS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6395
+#EXTINF:-1,24H-OS TRAPALHOES
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6396
+#EXTINF:-1,24H-OS VALENTES COWBOYS DE MOO MESA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6397
+#EXTINF:-1,24H-OS VERDADEIROS CA FANTASMAS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6398
+#EXTINF:-1,24H-OS VIAJANTES DE MAYFLOWER
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6399
+#EXTINF:-1,24H-OS VINGADORES
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6400
+#EXTINF:-1,24H-OSWALDO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6401
+#EXTINF:-1,24H-OVERMAN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6402
+#EXTINF:-1,24H-PAGODE DA OFENSA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6403
+#EXTINF:-1,24H-PANICO TROLL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6404
+#EXTINF:-1,24H-PANTERA COR DE ROSA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6405
+#EXTINF:-1,24H-PAPALEGUAS E COIOTE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6406
+#EXTINF:-1,24H-PARA RELAXAR E DORMIR
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6407
+#EXTINF:-1,24H-PARAFERNALHA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6408
+#EXTINF:-1,24H-PARTOBA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6409
+#EXTINF:-1,24H-PATLABOR
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6410
+#EXTINF:-1,24H-PATRULHA CANINA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6411
+#EXTINF:-1,24H-PATRULHA CANINA S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6412
+#EXTINF:-1,24H-PATRULHA CANINA S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6413
+#EXTINF:-1,24H-PATRULHA CANINA S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6414
+#EXTINF:-1,24H-PATRULHA ESTELAR
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6415
+#EXTINF:-1,24H-PEGADINHAS DO SILVIO SANTOS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6416
+#EXTINF:-1,24H-PEGADINHAS JALALS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6417
+#EXTINF:-1,24H-PEGADINHAS JOAO KLEBER
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6418
+#EXTINF:-1,24H-PEPE LEGAL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6419
+#EXTINF:-1,24H-PEPPA PIG
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6420
+#EXTINF:-1,24H-PERDIDO NAS ESTRELAS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6421
+#EXTINF:-1,24H-PERDIDO NO ESPA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6422
+#EXTINF:-1,24H-PERNALONGA E SUA TURMA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6423
+#EXTINF:-1,24H-PETER POTAMUS E TICO MICO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6424
+#EXTINF:-1,24H-PHINEAS E FERB
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6425
+#EXTINF:-1,24H-PICA-PAU
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6426
+#EXTINF:-1,24H-PICOLINO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6427
+#EXTINF:-1,24H-PINGU
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6428
+#EXTINF:-1,24H-PINKY E CEREBRO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6429
+#EXTINF:-1,24H-PLANET SURVIVAL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6430
+#EXTINF:-1,24H-PLIC PLOC E CHUVISCO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6431
+#EXTINF:-1,24H-POCOYO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6432
+#EXTINF:-1,24H-POKEMON
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6433
+#EXTINF:-1,24H-POKEMON S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6434
+#EXTINF:-1,24H-POKEMON S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6435
+#EXTINF:-1,24H-POKEMON S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6436
+#EXTINF:-1,24H-POKEMON S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6437
+#EXTINF:-1,24H-POKEMON S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6438
+#EXTINF:-1,24H-POKEMON S06
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6439
+#EXTINF:-1,24H-POKEMON S07
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6440
+#EXTINF:-1,24H-POKEMON S08
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6441
+#EXTINF:-1,24H-POKEMON S09
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6442
+#EXTINF:-1,24H-POKEMON S10
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6443
+#EXTINF:-1,24H-POKEMON S11
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6444
+#EXTINF:-1,24H-POKEMON S12
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6445
+#EXTINF:-1,24H-POKEMON S13
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6446
+#EXTINF:-1,24H-POKEMON S14
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6447
+#EXTINF:-1,24H-POLEPOSITION
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6448
+#EXTINF:-1,24H-POLICA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6449
+#EXTINF:-1,24H-POPEYE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6450
+#EXTINF:-1,24H-PORTAS DOS FUNDOS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6451
+#EXTINF:-1,24H-POWER RANGER CLASSICO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6452
+#EXTINF:-1,24H-POWER RANGER CLASSICO S01 AO S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6453
+#EXTINF:-1,24H-POWER RANGER DINO THUNDER
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6454
+#EXTINF:-1,24H-POWER RANGER GALAXIA PERDIDA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6455
+#EXTINF:-1,24H-POWER RANGER NINJA STORM
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6456
+#EXTINF:-1,24H-POWER RANGER SPD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6457
+#EXTINF:-1,24H-POWER RANGER ZEO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6458
+#EXTINF:-1,24H-POWER RANGERS TURBO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6459
+#EXTINF:-1,24H-POWER STONE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6460
+#EXTINF:-1,24H-PROJETO ZETA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6461
+#EXTINF:-1,24H-PUTZ A COISA TA FEIA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6462
+#EXTINF:-1,24H-RABISCO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6463
+#EXTINF:-1,24H-RAGNAROK
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6464
+#EXTINF:-1,24H-RECRUTA ZERO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6465
+#EXTINF:-1,24H-REDAKAI
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6466
+#EXTINF:-1,24H-REFUGIO MENTAL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6467
+#EXTINF:-1,24H-REI DO PEDACO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6468
+#EXTINF:-1,24H-REN E STIMPY
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6469
+#EXTINF:-1,24H-RICK E MORTY 1 TEMPORADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6470
+#EXTINF:-1,24H-RICK E MORTY 2 TEMPORADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6471
+#EXTINF:-1,24H-RICK E MORTY 3 TEMPORADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6472
+#EXTINF:-1,24H-RICK E MORTY 4 TEMPORADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6473
+#EXTINF:-1,24H-RIQUINHO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6474
+#EXTINF:-1,24H-ROCKET POWER
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6475
+#EXTINF:-1,24H-SABADOS SECRETO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6476
+#EXTINF:-1,24H-SAGWA A GATINHA SIAMESA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6477
+#EXTINF:-1,24H-SAI DE BAIXO S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6478
+#EXTINF:-1,24H-SAI DE BAIXO S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6479
+#EXTINF:-1,24H-SAI DE BAIXO S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6480
+#EXTINF:-1,24H-SAI DE BAIXO S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6481
+#EXTINF:-1,24H-SAI DE BAIXO S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6482
+#EXTINF:-1,24H-SAIKI KUSUO NO PSI NAN REATIVADO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6483
+#EXTINF:-1,24H-SAMURAI CHAMPLOO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6484
+#EXTINF:-1,24H-SAMURAI WARRIOR
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6485
+#EXTINF:-1,24H-SHAMAN KING
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6486
+#EXTINF:-1,24H-SHAZZAN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6487
+#EXTINF:-1,24H-SHE-RA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6488
+#EXTINF:-1,24H-SHINZO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6489
+#EXTINF:-1,24H-SHOW DA LUNA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6490
+#EXTINF:-1,24H-SHURATO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6491
+#EXTINF:-1,24H-SHURIKEN SCHOOL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6492
+#EXTINF:-1,24H-SILVERHAWKS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6493
+#EXTINF:-1,24H-SITIO DO PICA PAU AMARELO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6494
+#EXTINF:-1,24H-SLAM DUCK
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6495
+#EXTINF:-1,24H-SMALLVILLE S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6496
+#EXTINF:-1,24H-SMALLVILLE S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6497
+#EXTINF:-1,24H-SMALLVILLE S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6498
+#EXTINF:-1,24H-SMALLVILLE S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6499
+#EXTINF:-1,24H-SMALLVILLE S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6500
+#EXTINF:-1,24H-SMALLVILLE S06
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6501
+#EXTINF:-1,24H-SMALLVILLE S07
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6502
+#EXTINF:-1,24H-SMALLVILLE S08
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6503
+#EXTINF:-1,24H-SMALLVILLE S09
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6504
+#EXTINF:-1,24H-SMALLVILLE S10
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6505
+#EXTINF:-1,24H-SNOOPY NO ESPA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6506
+#EXTINF:-1,24H-SOBRENATURAL S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6507
+#EXTINF:-1,24H-SOBRENATURAL S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6508
+#EXTINF:-1,24H-SOBRENATURAL S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6509
+#EXTINF:-1,24H-SOBRENATURAL S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6510
+#EXTINF:-1,24H-SOBRENATURAL S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6511
+#EXTINF:-1,24H-SOBRENATURAL S06
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6512
+#EXTINF:-1,24H-SOBRENATURAL S07
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6513
+#EXTINF:-1,24H-SOBRENATURAL S08
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6514
+#EXTINF:-1,24H-SOBRENATURAL S09
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6515
+#EXTINF:-1,24H-SOBRENATURAL S10
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6516
+#EXTINF:-1,24H-SOBRENATURAL S11
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6517
+#EXTINF:-1,24H-SOBRENATURAL S12
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6518
+#EXTINF:-1,24H-SOBRENATURAL S13
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6519
+#EXTINF:-1,24H-SOBRENATURAL S14
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6520
+#EXTINF:-1,24H-SONIC BOOM
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6521
+#EXTINF:-1,24H-SONIC X
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6522
+#EXTINF:-1,24H-SOUTH PARK
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6523
+#EXTINF:-1,24H-SOUTH PARK ESPECIAL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6524
+#EXTINF:-1,24H-SOUTH PARK S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6525
+#EXTINF:-1,24H-SOUTH PARK S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6526
+#EXTINF:-1,24H-SOUTH PARK S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6527
+#EXTINF:-1,24H-SOUTH PARK S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6528
+#EXTINF:-1,24H-SOUTH PARK S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6529
+#EXTINF:-1,24H-SOUTH PARK S06
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6530
+#EXTINF:-1,24H-SOUTH PARK S07
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6531
+#EXTINF:-1,24H-SOUTH PARK S08
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6532
+#EXTINF:-1,24H-SOUTH PARK S09
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6533
+#EXTINF:-1,24H-SOUTH PARK S10
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6534
+#EXTINF:-1,24H-SOUTH PARK S11
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6535
+#EXTINF:-1,24H-SOUTH PARK S12
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6536
+#EXTINF:-1,24H-SOUTH PARK S13
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6537
+#EXTINF:-1,24H-SOUTH PARK S14
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6538
+#EXTINF:-1,24H-SOUTH PARK S15
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6539
+#EXTINF:-1,24H-SOUTH PARK S16
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6540
+#EXTINF:-1,24H-SOUTH PARK S17
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6541
+#EXTINF:-1,24H-SOUTH PARK S18
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6542
+#EXTINF:-1,24H-SOUTH PARK S19
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6543
+#EXTINF:-1,24H-SOUTH PARK S20
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6544
+#EXTINF:-1,24H-SPACE GHOST
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6545
+#EXTINF:-1,24H-SPACE GOOFS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6546
+#EXTINF:-1,24H-SPEED RACER
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6547
+#EXTINF:-1,24H-STEVE UNIVERSO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6548
+#EXTINF:-1,24H-SUPER AMIGOS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6549
+#EXTINF:-1,24H-SUPER CHOQUE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6550
+#EXTINF:-1,24H-SUPER GALO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6551
+#EXTINF:-1,24H-SUPER MARIO BROS 3
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6552
+#EXTINF:-1,24H-SUPERMAN DESENHO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6553
+#EXTINF:-1,24H-SWAT KATS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6554
+#EXTINF:-1,24H-TARTARUGA TOUCHE E DUM DUM
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6555
+#EXTINF:-1,24H-TARZAN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6556
+#EXTINF:-1,24H-TARZAN CLASSICO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6557
+#EXTINF:-1,24H-TAZ MANIA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6558
+#EXTINF:-1,24H-TEAM GALAXY
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6559
+#EXTINF:-1,24H-TELETUBBIES CLASSICO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6560
+#EXTINF:-1,24H-TELETUBBIES NOVO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6561
+#EXTINF:-1,24H-TELETUBBIES STOP MOTION
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6562
+#EXTINF:-1,24H-TENCHI MUYO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6563
+#EXTINF:-1,24H-TESTE DE FIDELIDADE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6564
+#EXTINF:-1,24H-THE BIG BANG THEORY S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6565
+#EXTINF:-1,24H-THE BIG BANG THEORY S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6566
+#EXTINF:-1,24H-THE BIG BANG THEORY S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6567
+#EXTINF:-1,24H-THE BIG BANG THEORY S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6568
+#EXTINF:-1,24H-THE BIG BANG THEORY S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6569
+#EXTINF:-1,24H-THE BIG BANG THEORY S06
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6570
+#EXTINF:-1,24H-THE BIG BANG THEORY S07
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6571
+#EXTINF:-1,24H-THE BIG BANG THEORY S08
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6572
+#EXTINF:-1,24H-THE BIG BANG THEORY S09
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6573
+#EXTINF:-1,24H-THOMAS E SEUS AMIGOS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6574
+#EXTINF:-1,24H-THUNDERCATS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6575
+#EXTINF:-1,24H-TIMAO E PUMBA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6576
+#EXTINF:-1,24H-TITA SIMBIONICO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6577
+#EXTINF:-1,24H-TODO MUNDO ODEIA O CRIS S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6578
+#EXTINF:-1,24H-TODO MUNDO ODEIA O CRIS S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6579
+#EXTINF:-1,24H-TODO MUNDO ODEIA O CRIS S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6580
+#EXTINF:-1,24H-TODO MUNDO ODEIA O CRIS S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6581
+#EXTINF:-1,24H-TOM E JERRY
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6582
+#EXTINF:-1,24H-TOM SEM FREIO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6583
+#EXTINF:-1,24H-TOPO GIGIO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6584
+#EXTINF:-1,24H-TOURADAS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6585
+#EXTINF:-1,24H-TR ESPI DEMAIS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6592
+#EXTINF:-1,24H-TRANSFORMES
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6586
+#EXTINF:-1,24H-TRES ESPIAS DEMAIS S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6587
+#EXTINF:-1,24H-TRES ESPIAS DEMAIS S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6588
+#EXTINF:-1,24H-TRES ESPIAS DEMAIS S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6589
+#EXTINF:-1,24H-TRES ESPIAS DEMAIS S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6590
+#EXTINF:-1,24H-TRES ESPIAS DEMAIS S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6591
+#EXTINF:-1,24H-TUNEL DO TEMPO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6593
+#EXTINF:-1,24H-TURBOMAN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6594
+#EXTINF:-1,24H-TURMA DA MONICA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6595
+#EXTINF:-1,24H-TUTUBARAO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6596
+#EXTINF:-1,24H-TV QUACK
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6597
+#EXTINF:-1,24H-ULTRAMAN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6598
+#EXTINF:-1,24H-UM MALUCO NO PEDA S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6599
+#EXTINF:-1,24H-UM MALUCO NO PEDA S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6600
+#EXTINF:-1,24H-UM MALUCO NO PEDA S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6601
+#EXTINF:-1,24H-UM MALUCO NO PEDA S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6602
+#EXTINF:-1,24H-UM MALUCO NO PEDA S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6603
+#EXTINF:-1,24H-UM MALUCO NO PEDA S06
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6604
+#EXTINF:-1,24H-URSINHO GUMMI
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6605
+#EXTINF:-1,24H-URSINHOS CARINHOSOS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6606
+#EXTINF:-1,24H-VALE DOS DINOSSAUROS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6607
+#EXTINF:-1,24H-VAMPIRINA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6608
+#EXTINF:-1,24H-VOCE NA TV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6609
+#EXTINF:-1,24H-VOCE SABIA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6610
+#EXTINF:-1,24H-WALLY GATOR
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6611
+#EXTINF:-1,24H-WEBBULLYING NA TV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6612
+#EXTINF:-1,24H-WINSPECTOR
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6613
+#EXTINF:-1,24H-X MEN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6614
+#EXTINF:-1,24H-XUXA SO PARA BAIXINHOS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6615
+#EXTINF:-1,24H-YU YU HAKUSHO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6616
+#EXTINF:-1,24H-YU-GI-OH S01
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6617
+#EXTINF:-1,24H-YU-GI-OH S02
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6618
+#EXTINF:-1,24H-YU-GI-OH S03
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6619
+#EXTINF:-1,24H-YU-GI-OH S04
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6620
+#EXTINF:-1,24H-YU-GI-OH S05
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6621
+#EXTINF:-1,24H-YU-GI-OH S06
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6622
+#EXTINF:-1,24H-YU-GI-OH S07
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6623
+#EXTINF:-1,24H-ZACK E CODY GEMEOS A BORDO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6624
+#EXTINF:-1,24H-ZATCH BELL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6625
+#EXTINF:-1,24H-ZE BUSCAPE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6626
+#EXTINF:-1,24H-ZE COLMEIA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6627
+#EXTINF:-1,24H-ZE PEQUENO DO PANICO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6628
+#EXTINF:-1,24H-ZILLION
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6629
+#EXTINF:-1,24H-ZOBOOMAFOO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6630
+#EXTINF:-1,24H-ZOEY 101
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6631
+#EXTINF:-1,24H-ZORRA TORAL 2015
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6632
+#EXTINF:-1,24H-ZORRA TOTAL 1999
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6633
+#EXTINF:-1,24H-ZORRA TOTAL 2000
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6634
+#EXTINF:-1,24H-ZORRA TOTAL 2006
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6635
+#EXTINF:-1,24H-ZORRA TOTAL 2007
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6636
+#EXTINF:-1,24H-ZORRA TOTAL 2012
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6637
+#EXTINF:-1,24H-ZORRA TOTAL 2013
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6638
+#EXTINF:-1,24H-ZORRA TOTAL 2014
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6639
+#EXTINF:-1,SPORT TV 2 SD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7437
+#EXTINF:-1,CAMPEONATO CARIOCA HD 01 PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4086
+#EXTINF:-1,CAMPEONATO CARIOCA HD 02 PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4087
+#EXTINF:-1,CAMPEONATO CARIOCA HD 04 PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4089
+#EXTINF:-1,CAMPEONATO CARIOCA HD 03 PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4088
+#EXTINF:-1,COPA CATARINENSE 01 HD PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4090
+#EXTINF:-1,COPA CATARINENSE 02 HD PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4091
+#EXTINF:-1,COPA CATARINENSE 03 HD PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4092
+#EXTINF:-1,COPA CATARINENSE 04 HD PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7035
+#EXTINF:-1,COPA CATARINENSE 05 HD PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7036
+#EXTINF:-1,COPA DO BRASIL 2
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7037
+#EXTINF:-1,COPA DO BRASIL  1
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7034
+#EXTINF:-1,COPA DO NORDESTE 01 PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4093
+#EXTINF:-1,COPA DO NORDESTE 02 PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4094
+#EXTINF:-1,COPA DO NORDESTE 03 PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4095
+#EXTINF:-1,COPA DO NORDESTE 04 PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7038
+#EXTINF:-1,COPA DO NORDESTE 05 PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7039
+#EXTINF:-1,COPA DO NORDESTE 06 PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7040
+#EXTINF:-1,COPA DO NORDESTE 07 PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7041
+#EXTINF:-1,COPA DO NORDESTE 08 PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7042
+#EXTINF:-1,DAZN 1 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4015
+#EXTINF:-1,DAZN 2 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4014
+#EXTINF:-1,DAZN 3 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4013
+#EXTINF:-1,DAZN 4 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4012
+#EXTINF:-1,DAZN 5 [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4011
+#EXTINF:-1,ESTADIO TNT SPORT 01 HD PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4096
+#EXTINF:-1,ESTADIO TNT SPORT 02 HD PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4097
+#EXTINF:-1,ESTADIO TNT SPORT 03 HD PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4098
+#EXTINF:-1,ESTADIO TNT SPORT 04 HD PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4099
+#EXTINF:-1,ESTADIO TNT SPORT 05 HD PPV
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4100
+#EXTINF:-1,MINEIRO 1
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7005
+#EXTINF:-1,PARANAENSE 1
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6983
+#EXTINF:-1,PARANAENSE 2
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6984
+#EXTINF:-1,POWER COUPLE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6857
+#EXTINF:-1,RECORD NEWS HD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7392
+#EXTINF:-1,VENUS FHD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7393
+#EXTINF:-1,RAI FHD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7394
+#EXTINF:-1,SBT RS HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7398
+#EXTINF:-1,ALL SPORTS HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7470
+#EXTINF:-1,SBT PIAUI
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7471
+#EXTINF:-1,SBT TV TAMBAU PARAIBA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7473
+#EXTINF:-1,SBT RN
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7472
+#EXTINF:-1,NOSSO FUTEBOL 1
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7474
+#EXTINF:-1,NOSSO FUTEBOL 2
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7475
+#EXTINF:-1,NOSSO FUTEBOL 3
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7476
+#EXTINF:-1,NOSSO FUTEBOL 4
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7477
+#EXTINF:-1,UFC FIGHT PASS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7478
+#EXTINF:-1,TVE BAHIA (CAMPEONATO BAIANO)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7479
+#EXTINF:-1,I-SAT SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4972
+#EXTINF:-1,A FAZENDA PRINCIPAL
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6733
+#EXTINF:-1,A FAZENDA CAM 1
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6734
+#EXTINF:-1,A FAZENDA CAM 2
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6735
+#EXTINF:-1,A FAZENDA CAM 3
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6736
+#EXTINF:-1,A FAZENDA CAM 4
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6737
+#EXTINF:-1,A FAZENDA CAM 5
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6738
+#EXTINF:-1,A FAZENDA CAM 6
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6739
+#EXTINF:-1,A FAZENDA CAM 7
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6740
+#EXTINF:-1,A FAZENDA CAM 8
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6741
+#EXTINF:-1,CONMEBOL TV 4 SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4018
+#EXTINF:-1,CONMEBOL TV 3 SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4020
+#EXTINF:-1,CONMEBOL TV 2 SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4022
+#EXTINF:-1,CONMEBOL TV 1 SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4024
+#EXTINF:-1,CONMEBOL PARAMOUNT+ 1 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4777
+#EXTINF:-1,CONMEBOL PARAMOUNT+ 2 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4779
+#EXTINF:-1,CONMEBOL PARAMOUNT+ 3 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4781
+#EXTINF:-1,CONMEBOL PARAMOUNT+ 4 HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4783
+#EXTINF:-1,REDE SUPER HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7031
+#EXTINF:-1,BUNDESLIGA 8 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7406
+#EXTINF:-1,BUNDESLIGA 7 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7407
+#EXTINF:-1,BUNDESLIGA 6 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7408
+#EXTINF:-1,BUNDESLIGA 5 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7409
+#EXTINF:-1,BUNDESLIGA 4 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7410
+#EXTINF:-1,BUNDESLIGA 3 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7411
+#EXTINF:-1,BUNDESLIGA 2 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7412
+#EXTINF:-1,BUNDESLIGA 2 SD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7413
+#EXTINF:-1,BUNDESLIGA 1 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7414
+#EXTINF:-1,BUNDESLIGA 1 (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7415
+#EXTINF:-1,LALIGA HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7416
+#EXTINF:-1,LALIGA TV (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7417
+#EXTINF:-1,CALCIO 7 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7418
+#EXTINF:-1,CALCIO 6 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7419
+#EXTINF:-1,CALCIO 5 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7420
+#EXTINF:-1,CALCIO 4 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7421
+#EXTINF:-1,CALCIO 3 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7422
+#EXTINF:-1,CALCIO 1 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7423
+#EXTINF:-1,SPORT TV 6 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7424
+#EXTINF:-1,SPORT TV 6 FHD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7425
+#EXTINF:-1,SPORT TV 5 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7426
+#EXTINF:-1,SPORT TV 5 FHD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7427
+#EXTINF:-1,SPORT TV 5 SD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7428
+#EXTINF:-1,SPORT TV 4 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7429
+#EXTINF:-1,SPORT TV 4 FHD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7430
+#EXTINF:-1,SPORT TV 4 SD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7431
+#EXTINF:-1,SPORT TV 3 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7432
+#EXTINF:-1,SPORT TV 3 FHD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7433
+#EXTINF:-1,SPORT TV 3 SD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7434
+#EXTINF:-1,SPORT TV 2 FHD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7435
+#EXTINF:-1,SPORT TV 2 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7436
+#EXTINF:-1,SPORT TV 1 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7438
+#EXTINF:-1,SPORT TV 1 FHD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7439
+#EXTINF:-1,SPORT TV 1 SD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7440
+#EXTINF:-1,SPORT TV + HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7441
+#EXTINF:-1,SPORT TV + FHD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7442
+#EXTINF:-1,ELEVEN SPORTS 6 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7443
+#EXTINF:-1,ELEVEN SPORTS 6 FHD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7444
+#EXTINF:-1,ELEVEN SPORTS 6 SD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7445
+#EXTINF:-1,ELEVEN SPORTS 5 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7446
+#EXTINF:-1,ELEVEN SPORTS 5 FHD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7447
+#EXTINF:-1,ELEVEN SPORTS 5 SD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7448
+#EXTINF:-1,ELEVEN SPORTS 4 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7449
+#EXTINF:-1,ELEVEN SPORTS 4 SD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7450
+#EXTINF:-1,ELEVEN SPORTS 3 SD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7451
+#EXTINF:-1,ELEVEN SPORTS 3 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7452
+#EXTINF:-1,ELEVEN SPORTS 3 FHD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7453
+#EXTINF:-1,ELEVEN SPORTS 2 SD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7454
+#EXTINF:-1,ELEVEN SPORTS 2 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7455
+#EXTINF:-1,ELEVEN SPORTS 2 FHD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7456
+#EXTINF:-1,ELEVEN SPORTS SD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7457
+#EXTINF:-1,ELEVEN SPORTS HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7458
+#EXTINF:-1,ELEVEN SPORTS FHD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7459
+#EXTINF:-1,NBA LEAGUE PASS 10 (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7460
+#EXTINF:-1,NBA LEAGUE PASS 09 (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7461
+#EXTINF:-1,NBA LEAGUE PASS 08 (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7462
+#EXTINF:-1,NBA LEAGUE PASS 07 (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7463
+#EXTINF:-1,NBA LEAGUE PASS 06 (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7464
+#EXTINF:-1,NBA LEAGUE PASS 05 (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7465
+#EXTINF:-1,NBA LEAGUE PASS 04 (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7466
+#EXTINF:-1,NBA LEAGUE PASS 03 (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7467
+#EXTINF:-1,NBA LEAGUE PASS 02 (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7468
+#EXTINF:-1,NBA LEAGUE PASS 01 (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7469
+#EXTINF:-1,GLOBO AMAPA SD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7873
+#EXTINF:-1,RECORD NATAL SD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7877
+#EXTINF:-1,SBT AMAZONAS FHD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7878
+#EXTINF:-1,GLOBO SJRP SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7881
+#EXTINF:-1,A GRANDE CONQUISTA SINAL 1
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7882
+#EXTINF:-1,A GRANDE CONQUISTA SINAL 2
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7883
+#EXTINF:-1,A GRANDE CONQUISTA SINAL 3
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7884
+#EXTINF:-1,A GRANDE CONQUISTA SINAL 4
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7885
+#EXTINF:-1,TNT NOVELAS FHD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7886
+#EXTINF:-1,TNT NOVELAS HD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7887
+#EXTINF:-1,TNT NOVELAS SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7888
+#EXTINF:-1,BAND (MACEIO)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7889
+#EXTINF:-1,SBT (TV PONTA VERDE)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7890
+#EXTINF:-1,RECORD TV PAJUÇARA FHD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7891
+#EXTINF:-1, SBT  CASTANHAL (TV PARAENSE)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7892
+#EXTINF:-1,SBT ALAGOAS TV PONTA VERDE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7893
+#EXTINF:-1,GLOBO REDE AMAZONICA PARINTINS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7894
+#EXTINF:-1,RECORD TV CORREIO JOAO PESSOA FHD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7908
+#EXTINF:-1,RECORD RICTV MARINGA HD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7909
+#EXTINF:-1,RECORD TV GUARARAPES FHD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7910
+#EXTINF:-1,RECORD TV TROPICAL FHD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7911
+#EXTINF:-1,HBO MAX STAR + 4
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7913
+#EXTINF:-1,RECORD CAMPINAS SD [P]
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7914
+#EXTINF:-1,RECORD SJRP FHD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7915
+#EXTINF:-1,RECORD SJRP HD (P)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7916
+#EXTINF:-1,PREMIERE 8 SD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7928
+#EXTINF:-1,PREMIERE 8 FHD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7929
+#EXTINF:-1,CAZE TV 1
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7930
+#EXTINF:-1,CAZE TV 2
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7931
+#EXTINF:-1,CAZE TV 3
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7932
+#EXTINF:-1,ADULT SWIN HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7934
+#EXTINF:-1,ADULT SWIN SD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7935
+#EXTINF:-1,ADULT SWIN FHD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7933
+#EXTINF:-1,REDE TV PAMPA FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7348
+#EXTINF:-1,REDE TV PAMPA HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7347
+#EXTINF:-1,GLOBO BELO HORIZONTE FHD H265 (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6889
+#EXTINF:-1,GLOBO BELO HORIZONTE HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6890
+#EXTINF:-1,GLOBO BRASILIA FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6891
+#EXTINF:-1,GLOBO CENTRO AMERICA FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6892
+#EXTINF:-1,GLOBO CENTRO AMERICA HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6893
+#EXTINF:-1,GLOBO EPTV CAMPINAS FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6894
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6895
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6896
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6897
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6898
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6899
+#EXTINF:-1,GLOBO INTER TV ALTO LITORAL FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6900
+#EXTINF:-1,GLOBO INTER TV ALTO LITORAL HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6901
+#EXTINF:-1,GLOBO INTER TV CABUGI FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6902
+#EXTINF:-1,GLOBO INTER TV CABUGI HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6903
+#EXTINF:-1,GLOBO INTER TV DOS VALES FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6904
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6906
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6907
+#EXTINF:-1,GLOBO NSC BLUMENAU FHD H265 (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6908
+#EXTINF:-1,GLOBO NSC BLUMENAU HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6909
+#EXTINF:-1,GLOBO NSC CHAPECO FHD H265 (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6910
+#EXTINF:-1,GLOBO NSC CHAPECO HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6911
+#EXTINF:-1,GLOBO NSC CRICIUMA FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6912
+#EXTINF:-1,GLOBO NSC CRICIUMA HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6913
+#EXTINF:-1,GLOBO NSC JOINVILLE FHD H265 (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6914
+#EXTINF:-1,GLOBO NSC JOINVILLE HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6915
+#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6916
+#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6917
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6918
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6919
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL FHD H26 (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6920
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6921
+#EXTINF:-1,GLOBO RBS TV PASSO FUNDO FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6922
+#EXTINF:-1,GLOBO RBS TV PASSO FUNDO HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6923
+#EXTINF:-1,GLOBO RBS TV PELOTAS FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6924
+#EXTINF:-1,GLOBO RBS TV PELOTAS HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6925
+#EXTINF:-1,GLOBO REDE AMAZONICA RONDONIA FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6926
+#EXTINF:-1,GLOBO REDE AMAZONICA RONDONIA HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6927
+#EXTINF:-1,GLOBO RJ FHD H265 (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6928
+#EXTINF:-1,GLOBO RJ HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6929
+#EXTINF:-1,GLOBO RPC CURITIBA FHD H265 (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6930
+#EXTINF:-1,GLOBO RPC CURITIBA HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6931
+#EXTINF:-1,GLOBO RPC FOZ DO IGUACU FHD H265 (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6932
+#EXTINF:-1,GLOBO RPC FOZ DO IGUACU HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6933
+#EXTINF:-1,GLOBO RPC MARINGA FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6934
+#EXTINF:-1,GLOBO RPC MARINGA HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6935
+#EXTINF:-1,GLOBO RPC PARANAVAI FHD H265 (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6936
+#EXTINF:-1,GLOBO RPC PARANAVAI HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6937
+#EXTINF:-1,GLOBO RPC TV PONTA GROSSA FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6938
+#EXTINF:-1,GLOBO RPC TV PONTA GROSSA HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6939
+#EXTINF:-1,GLOBO TV ALAGOAS FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6940
+#EXTINF:-1,GLOBO TV ALAGOAS HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6941
+#EXTINF:-1,GLOBO TV ANHANGUERA FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6942
+#EXTINF:-1,GLOBO TV BAHIA FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6943
+#EXTINF:-1,GLOBO TV BAHIA HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6944
+#EXTINF:-1,GLOBO TV DIARIO MOGI DAS CRUZES
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6945
+#EXTINF:-1,GLOBO TV DIARIO MOGIDAS CRUZES FHD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6946
+#EXTINF:-1,GLOBO TV FRONTEIRA FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6947
+#EXTINF:-1,GLOBO TV FRONTEIRA HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6948
+#EXTINF:-1,GLOBO TV GAZETA VITORIA FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6951
+#EXTINF:-1,GLOBO TV GAZETA VITORIA HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6952
+#EXTINF:-1,GLOBO TV INTEG. ARAXA FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6953
+#EXTINF:-1,GLOBO TV INTEG. ARAXA HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6954
+#EXTINF:-1,GLOBO TV INTEG. JUIZ DE FORA FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6955
+#EXTINF:-1,GLOBO TV INTEG. JUIZ DE FORA HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6956
+#EXTINF:-1,GLOBO TV LIBERAL BELEM HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6957
+#EXTINF:-1,GLOBO TV MORENA FHD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6958
+#EXTINF:-1,GLOBO TV MORENA HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6959
+#EXTINF:-1,GLOBO TV NORDESTE  FHD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6960
+#EXTINF:-1,GLOBO TV NORDESTE HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6961
+#EXTINF:-1,GLOBO TV RIO SUL FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6962
+#EXTINF:-1,GLOBO TV RIO SUL HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6963
+#EXTINF:-1,GLOBO TV SERRA MAR FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6964
+#EXTINF:-1,GLOBO TV SERRA MAR HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6965
+#EXTINF:-1,GLOBO TV TEM BAURU FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6966
+#EXTINF:-1,GLOBO TV TEM BAURU HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6967
+#EXTINF:-1,GLOBO TV TEM SOROCABA FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6968
+#EXTINF:-1,GLOBO TV TEM SOROCABA HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6969
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6970
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6971
+#EXTINF:-1,GLOBO TV VANG. S.J. CAMPOS FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6972
+#EXTINF:-1,GLOBO TV VANG. S.J. CAMPOS HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6973
+#EXTINF:-1,GLOBO TV VANG. TAUBATE FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6974
+#EXTINF:-1,GLOBO TV VANG. TAUBATE HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6975
+#EXTINF:-1,GLOBO VERDES MARES FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6976
+#EXTINF:-1,GLOBO VERDES MARES HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6977
+#EXTINF:-1,RECORD INTERIOR SP FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7007
+#EXTINF:-1,RECORD INTERIOR SP HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7008
+#EXTINF:-1,RECORD ITAPOAN FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7009
+#EXTINF:-1,RECORD ITAPOAN HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7010
+#EXTINF:-1,RECORD LITORAL VALE DO PARNAIBA FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7011
+#EXTINF:-1,RECORD LITORAL VALE DO PARNAIBA HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7012
+#EXTINF:-1,RECORD PARANAIBA UBERLANDIA FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7013
+#EXTINF:-1,RECORD PARANAIBA UBERLANDIA HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7014
+#EXTINF:-1,RECORD PAULISTA FHD H265 (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7015
+#EXTINF:-1,RECORD PAULISTA HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7016
+#EXTINF:-1,RECORD SIC TV RONDONIA FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7017
+#EXTINF:-1,RECORD SIC TV RONDONIA HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7018
+#EXTINF:-1,RECORD SJR.PRETO FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7019
+#EXTINF:-1,RECORD SJR.PRETO HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7020
+#EXTINF:-1,RECORD VILA REAL FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7021
+#EXTINF:-1,RECORD VILA REAL HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7022
+#EXTINF:-1,SBT ITAPOAN FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7023
+#EXTINF:-1,SBT ITAPOAN HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7024
+#EXTINF:-1,SBT RBS HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7025
+#EXTINF:-1,SBT TV ALTEROSA FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7028
+#EXTINF:-1,SBT TV ALTEROSA HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7029
+#EXTINF:-1,REDE SUPER FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7030
+#EXTINF:-1,GLOBO INTER TV DOS VALES HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6905
+#EXTINF:-1,GLOBO TV GAZETA SUL FHD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6949
+#EXTINF:-1,GLOBO TV GAZETA SUL HD (BR2)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6950
+#EXTINF:-1,GLOBO REDE AMAZONICA ITACOATIARA 
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7895
+#EXTINF:-1,GLOBO JUAZEIRO BAHIA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7896
+#EXTINF:-1,GLOBO TV OESTE BARREIRAS BAHIA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7897
+#EXTINF:-1,GLOBO TV SANTA CRUZ ITABUNA BAHIA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7898
+#EXTINF:-1,GLOBO FEIRA DE SANTANA BAHIA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7899
+#EXTINF:-1,GLOBO JUAZEIRO DO NORTE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7900
+#EXTINF:-1,GLOBO TV ANHANGUERA ANAPOLIS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7901
+#EXTINF:-1,GLOBO TV ANHANGUERA CATALAO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7902
+#EXTINF:-1,GLOBO TV ANHANGUERA ITUMBIARA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7903
+#EXTINF:-1,GLOBO TV ANHANGUERA JATAI
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7904
+#EXTINF:-1,GLOBO TV ANHANGUERA LUZIANIA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7905
+#EXTINF:-1,GLOBO TV ANHANGUERA PORAGANTU
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7906
+#EXTINF:-1,GLOBO TV ANHANGUERA ARAGUAINA TOCANTINS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7918
+#EXTINF:-1,GLOBO TV ANHANGUERA GURUPI TOCANTINS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7919
+#EXTINF:-1,GLOBO TV ANHANGUERA PALMAS TOCANTINS
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7920
+#EXTINF:-1,GLOBO ARACAJU TV SERGIPE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7921
+#EXTINF:-1,GLOBO TV TEM ITAPETININGA E REGIAO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7922
+#EXTINF:-1,GLOBO TV LIBERAL ALTAMIRA (PARA)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7923
+#EXTINF:-1,GLOBO TV INTEGRAÇAO ARAXA (MG)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7924
+#EXTINF:-1,GLOBO REDE AMAZONICA ARIQUEMES
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7925
+#EXTINF:-1,GLOBO RBS TV BAGE
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7926
+#EXTINF:-1,GLOBO TV MIRANTE BALSAS MARANHAO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7927
