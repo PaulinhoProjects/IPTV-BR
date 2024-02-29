@@ -1123,30 +1123,9 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3814
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3813
 #EXTINF:-1,SPACE SD [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3812
-#EXTINF:-1,SPORTV 2 FHD H265 [P]
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4897
-#EXTINF:-1,SPORTV 2 FHD [P]
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4820
-#EXTINF:-1,SPORTV 2 HD [P]
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3809
-#EXTINF:-1,SPORTV 2 SD [P]
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3808
-#EXTINF:-1,SPORTV 3 FHD H265 [P]
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4898
-#EXTINF:-1,SPORTV 3 FHD [P]
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4821
-#EXTINF:-1,SPORTV 3 HD [P]
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3807
-#EXTINF:-1,SPORTV 3 SD [P]
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3806
-#EXTINF:-1,SPORTV FHD H265 [P]
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4899
-#EXTINF:-1,SPORTV FHD [P]
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4819
-#EXTINF:-1,SPORTV HD [P]
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3811
-#EXTINF:-1,SPORTV SD [P]
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3810
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/548
+
 #EXTINF:-1,STAR CHANNEL FHD H265 [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4921
 #EXTINF:-1,STAR CHANNEL FHD [P]
