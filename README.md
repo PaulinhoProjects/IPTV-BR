@@ -9,9 +9,5 @@ Link da Lista para adicionar em seus app ou servidores de midia:
 
 https://raw.githubusercontent.com/PaulinhoProjects/IPTV-BR/main/Paulo.m3u
 
-
-ATT BBB 24 sendo adicionado gradualmete assim que os servidores começarem a liberar os links estarei subindo as outras cameras. 
-
-Caso algum canal esta OFF faremos o melhor para manter todos ON.
-
-Temos 2 listas postadas aqui no Github a 2024 e um servidor alternativo caso o principal não esteja funcionado, mas a prioridade e a lista nomeada como Paulo.m3u. 
+Novamente atualizado a lista peço desculpa pelo tempo sumido não testei todos os canais pois não tive tempo no momento mas por esta atualizado espero que estrja funcionando. 
+Outubro de 2024
