@@ -16,9 +16,7 @@ Espero que gostem !
 
 Se alguem tiver interresse em ajudar com alguma doação pix é email paulocesarafcg@gmail.com qualquer valor ja da força para continuar atualizando aqui.  
 
-Quero agradecer a todos que estão colaborando com projeto isso motiva muito e ajuda claro. Aqueles que ajudaram o projeto o meu muito obrigado e quem ainda não pode tudo bem ! mas se for possivel, ajude com qualquer valor para manter essa lista on para todos !
-
-Um Feliz Natal a Todos e um propero ano novo !
+Peço desculpas pela demora na Atualização, mas todos precisamos de ferias kskskks, mas agora esta atualizada aproveitem !!!!
 
 
-20/12/2024 Ultima att até o momento.
+09/01/2025 Ultima att até o momento.
