@@ -9,7 +9,6 @@ Link da Lista para adicionar em seus app ou servidores de midia:
 
 https://raw.githubusercontent.com/PaulinhoProjects/IPTV-BR/main/Paulo.m3u
 
-Ultima atualização da lista 24/10/2024.
 Encontrou um canal que não esta funcionando deixei um comentario no git para ajudar a avisar e assim tentarei resolver o mais rapido possivel !
 
 Espero que gostem !
