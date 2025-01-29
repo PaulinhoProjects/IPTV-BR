@@ -19,4 +19,4 @@ Se alguem tiver interresse em ajudar com alguma doação pix é email paulocesar
 Peço desculpas pela demora na Atualização, mas todos precisamos de ferias kskskks, mas agora esta atualizada aproveitem !!!!
 
 
-09/01/2025 Ultima att até o momento.
+29/01/2025 Ultima att até o momento.
