@@ -9,14 +9,15 @@ Link da Lista para adicionar em seus app ou servidores de midia:
 
 https://raw.githubusercontent.com/PaulinhoProjects/IPTV-BR/main/Paulo.m3u
 
-Encontrou um canal que não esta funcionando deixei um comentario no git para ajudar a avisar e assim tentarei resolver o mais rapido possivel !
-
-Espero que gostem !
-
 Se alguem tiver interresse em ajudar com alguma doação pix é email paulocesarafcg@gmail.com qualquer valor ja da força para continuar atualizando aqui.  
 
-Peço desculpas pela demora na Atualização, mas todos precisamos de ferias kskskks, mas agora esta atualizada aproveitem !!!!
+Estamos com problemas com varios servidores e links por isso a lista esta instavel e com varios canais fora do ar, estou disponibilizando uma lista secundaria com menos canais mas com a variedade agradavel.
 
 
-08/02/2025 Ultima att até o momento.
+Link para lista secundaria:
+
+
+Enquanto isso estou tentando buscar uma solução para a lista principal.
+
+Espero que entendam que o serviço aqui e gratuito, alem de ser algo voluntario que faço aqui.
 
