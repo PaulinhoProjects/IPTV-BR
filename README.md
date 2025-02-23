@@ -14,7 +14,7 @@ Se alguem tiver interresse em ajudar com alguma doação pix é email paulocesar
 Estamos com problemas com varios servidores e links por isso a lista esta instavel e com varios canais fora do ar, estou disponibilizando uma lista secundaria com menos canais mas com a variedade agradavel.
 
 
-Link para lista secundaria:
+Link para lista secundaria: https://raw.githubusercontent.com/PaulinhoProjects/IPTV-BR/refs/heads/main/listasecundaria.m3u
 
 
 Enquanto isso estou tentando buscar uma solução para a lista principal.
